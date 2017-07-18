@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  naisd:
+  - apiVersion: v1
+    created: 2017-07-18T13:30:24.724239293+02:00
+    description: NAIS daemon
+    digest: 861891e8042577f6c6a8e4ce43034734aa8048e608a14d20024884f824a40cce
+    name: naisd
+    urls:
+    - naisd-21.0.0.tgz
+    version: 21.0.0
+generated: 2017-07-18T13:30:24.722920713+02:00
