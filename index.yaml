@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   naisd:
   - apiVersion: v1
-    created: 2017-07-26T14:50:25.337338264Z
+    created: 2017-07-26T14:58:25.577859736Z
+    description: NAIS daemon
+    digest: 01095267775974f4d1ce2d8e5f1094c4dc7c6555f373ea7326f5cf59295fe4a7
+    name: naisd
+    urls:
+    - https://nais.github.io/charts/naisd-38.0.0.tgz
+    version: 38.0.0
+  - apiVersion: v1
+    created: 2017-07-26T14:58:25.577337276Z
     description: NAIS daemon
     digest: ac90139b4c0e005d75b19e54d3b56b0794731de8f7d948c0c9261e4b978278b8
     name: naisd
@@ -10,7 +18,7 @@ entries:
     - https://nais.github.io/charts/naisd-37.0.0.tgz
     version: 37.0.0
   - apiVersion: v1
-    created: 2017-07-26T14:50:25.336838909Z
+    created: 2017-07-26T14:58:25.576883027Z
     description: NAIS daemon
     digest: 19f50af602deb183bddbaf18ece01ce93fdf389eb15c0f097893e39e72775844
     name: naisd
@@ -18,7 +26,7 @@ entries:
     - https://nais.github.io/charts/naisd-36.0.0.tgz
     version: 36.0.0
   - apiVersion: v1
-    created: 2017-07-26T14:50:25.336219666Z
+    created: 2017-07-26T14:58:25.576370941Z
     description: NAIS daemon
     digest: 644d5d69e0732fcac24d4af725905496a015495a76d0dd38c193f66efdf01f7c
     name: naisd
@@ -26,7 +34,7 @@ entries:
     - https://nais.github.io/charts/naisd-32.0.0.tgz
     version: 32.0.0
   - apiVersion: v1
-    created: 2017-07-26T14:50:25.335630462Z
+    created: 2017-07-26T14:58:25.575808028Z
     description: NAIS daemon
     digest: 661c8de0219fe5bbc8099de165fc78e5aa4f315825fc1d766f203c669ddc381d
     name: naisd
@@ -34,11 +42,11 @@ entries:
     - https://nais.github.io/charts/naisd-30.0.0.tgz
     version: 30.0.0
   - apiVersion: v1
-    created: 2017-07-26T14:50:25.335101182Z
+    created: 2017-07-26T14:58:25.575207204Z
     description: NAIS daemon
     digest: 4c197ff368a420671d8b442e46834404aaebb6484e21de762409450fba7a8b31
     name: naisd
     urls:
     - https://nais.github.io/charts/naisd-29.0.0.tgz
     version: 29.0.0
-generated: 2017-07-26T14:50:25.333946062Z
+generated: 2017-07-26T14:58:25.573806469Z
