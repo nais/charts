@@ -1182,6 +1182,28 @@ entries:
     version: 1.0.0
   rook:
   - apiVersion: v1
+    created: 2017-10-24T14:11:02.423073573+02:00
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 6fedad1542c9789240c9fa2b45168a6cb5c02de29226cf1bf9cd0476439b0a76
+    icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
+    name: rook
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://nais.github.io/charts/rook-v0.5.0-195.g84593aa.tgz
+    version: v0.5.0-195.g84593aa
+  - apiVersion: v1
+    created: 2017-10-24T14:11:02.422629249+02:00
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 73698ea448ea5b5c729f9328607a6e6657eda221d1ce8e0ed7212b2fb39cdcc5
+    icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
+    name: rook
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://nais.github.io/charts/rook-v0.5.0-101.gc1e2675.tgz
+    version: v0.5.0-101.gc1e2675
+  - apiVersion: v1
     created: 2017-10-24T13:59:24.116836361+02:00
     description: File, Block, and Object Storage Services for your Cloud-Native Environment
     digest: 8273fa9c63b7c91f2418d1ebcfe8518bfd6ae0159d48d82173429d741d8defe7
@@ -1192,4 +1214,4 @@ entries:
     urls:
     - https://nais.github.io/charts/rook-0.0.1.tgz
     version: 0.0.1
-generated: 2017-10-24T13:59:24.115665978+02:00
+generated: 2017-10-24T14:11:02.421769495+02:00
