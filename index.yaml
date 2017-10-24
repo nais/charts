@@ -1180,4 +1180,16 @@ entries:
     urls:
     - https://nais.github.io/charts/naisprom-1.0.0.tgz
     version: 1.0.0
-generated: 2017-10-23T09:58:50.889064505Z
+  rook:
+  - apiVersion: v1
+    created: 2017-10-24T13:59:24.116836361+02:00
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 8273fa9c63b7c91f2418d1ebcfe8518bfd6ae0159d48d82173429d741d8defe7
+    icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
+    name: rook
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://nais.github.io/charts/rook-0.0.1.tgz
+    version: 0.0.1
+generated: 2017-10-24T13:59:24.115665978+02:00
