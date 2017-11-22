@@ -1551,6 +1551,15 @@ entries:
     version: 0.0.1
   rook-cluster:
   - apiVersion: v1
+    created: 2017-11-22T16:07:40.76733912+01:00
+    description: A Helm chart for setting up a opionated rook cluster, Ceph pool and
+      Kubernetes storage class.
+    digest: ff237f29d524b6322d272722e6ead04304ddf473848c3e8506fd714968648190
+    name: rook-cluster
+    urls:
+    - https://nais.github.io/charts/temp/rook-cluster-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
     created: 2017-11-22T12:05:00.349309198Z
     description: A Helm chart for setting up a opionated rook cluster, Ceph pool and
       Kubernetes storage class.
@@ -1568,4 +1577,4 @@ entries:
     urls:
     - https://nais.github.io/charts/rook-cluster-0.1.0.tgz
     version: 0.1.0
-generated: 2017-11-22T12:05:00.291147499Z
+generated: 2017-11-22T16:07:40.766718296+01:00
