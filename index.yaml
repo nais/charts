@@ -1557,7 +1557,7 @@ entries:
     digest: ff237f29d524b6322d272722e6ead04304ddf473848c3e8506fd714968648190
     name: rook-cluster
     urls:
-    - https://nais.github.io/charts/temp/rook-cluster-0.3.0.tgz
+    - https://nais.github.io/charts/rook-cluster-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2017-11-22T12:05:00.349309198Z
