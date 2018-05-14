@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   elasticsearch:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.427101829Z
+    created: 2018-05-14T07:56:56.719580447Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: 067440425c47519cdca50681eafde8f6c9a234cb14070442951f30d1c48a2863
@@ -17,7 +17,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.5.tgz
     version: 0.3.5
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.426566952Z
+    created: 2018-05-14T07:56:56.719058857Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: b4c5ce7f5597c358f3ba13fabf97302911bf97d0dac1d3820356c5eccc9d511e
@@ -32,7 +32,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.426064722Z
+    created: 2018-05-14T07:56:56.718517595Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: 3ccb73e0bc175c5479f13323e5eb7d51431ceb3c44bf9347ea5367270449514a
@@ -47,7 +47,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.425526607Z
+    created: 2018-05-14T07:56:56.717992511Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: 027810f0d301786dc0b41306c4ab79683422597023b1f64104de512ca6b432a6
@@ -62,7 +62,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.424939949Z
+    created: 2018-05-14T07:56:56.717487903Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: 210626b4b93a514141f922fd5aafdd6ea37c7c5ba2b71b2d33180ee4e742aa47
@@ -77,7 +77,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.424336759Z
+    created: 2018-05-14T07:56:56.716955569Z
     description: Elasticsearch is a distributed, RESTful search and analytics engine
       capable of solving a growing number of use cases.
     digest: adb0dacd416ee0cb12da60a06bfea282306fc1e368df4021544947491e4cb7b9
@@ -92,7 +92,7 @@ entries:
     - https://nais.github.io/charts/elasticsearch-0.3.0.tgz
     version: 0.3.0
   election-namespace:
-  - created: 2018-05-10T20:40:54.427212611Z
+  - created: 2018-05-14T07:56:56.719684172Z
     description: Leader election namespace
     digest: 211caa0b9f7549fa606c859c9bc00d0da33d24e005b188d3610383f82c3ffaeb
     name: election-namespace
@@ -101,7 +101,15 @@ entries:
     version: 1.0.0
   gardener:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.42778615Z
+    created: 2018-05-14T07:56:56.721297839Z
+    description: NAIS gardener
+    digest: d69ecd609284b405705a5a914be74629bb5836ee81af436d505446a756afeaaa
+    name: gardener
+    urls:
+    - https://nais.github.io/charts/gardener-14.0.0.tgz
+    version: 14.0.0
+  - apiVersion: v1
+    created: 2018-05-14T07:56:56.72029797Z
     description: NAIS gardener
     digest: 6ad0dab236f3ab7468963d6c1bda8bef544c13ef3bf4d941f25d1b37538ba9fe
     name: gardener
@@ -109,7 +117,7 @@ entries:
     - https://nais.github.io/charts/gardener-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.427616746Z
+    created: 2018-05-14T07:56:56.72015934Z
     description: NAIS gardener
     digest: 3f26aae96267417614f86c4332c8df999889bb1e14bc8b226faf60b8d790b6a9
     name: gardener
@@ -117,7 +125,7 @@ entries:
     - https://nais.github.io/charts/gardener-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.427476687Z
+    created: 2018-05-14T07:56:56.71998871Z
     description: NAIS gardener
     digest: 31dd68c3bbd50a0c5325ffabee0b980d38f964fb4545a5cc6666adc1f429ea03
     name: gardener
@@ -125,7 +133,7 @@ entries:
     - https://nais.github.io/charts/gardener-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.430728239Z
+    created: 2018-05-14T07:56:56.72443519Z
     description: NAIS gardener
     digest: b1b4f33a1613fb0f9c2ea98cee6e8281085fa485a9af76571522254bcc5450d8
     name: gardener
@@ -133,7 +141,7 @@ entries:
     - https://nais.github.io/charts/gardener-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.43023502Z
+    created: 2018-05-14T07:56:56.723747727Z
     description: NAIS gardener
     digest: 6259a0a9ff2f1eb6a566ef7c502424b43356922b82fc601ad1d1cf3453a90475
     name: gardener
@@ -141,7 +149,7 @@ entries:
     - https://nais.github.io/charts/gardener-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.429685912Z
+    created: 2018-05-14T07:56:56.723197682Z
     description: NAIS gardener
     digest: 31e251ab5022e69f6a50d95eaaabce7dac0bd70aeaff62b2e01b37cf4a748e40
     name: gardener
@@ -149,7 +157,7 @@ entries:
     - https://nais.github.io/charts/gardener-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.429104044Z
+    created: 2018-05-14T07:56:56.722719538Z
     description: NAIS gardener
     digest: 7abfcbcb4fe76d04edf1f41c6bf40b89efade9498cc1c9a4386513bfcaab1263
     name: gardener
@@ -157,7 +165,7 @@ entries:
     - https://nais.github.io/charts/gardener-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.428274048Z
+    created: 2018-05-14T07:56:56.722228692Z
     description: NAIS gardener
     digest: 59046499f8e6e43ad3b0064612d820adf0983cd95f355a57ccc2be4285f73c70
     name: gardener
@@ -165,7 +173,7 @@ entries:
     - https://nais.github.io/charts/gardener-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.42791908Z
+    created: 2018-05-14T07:56:56.721710108Z
     description: NAIS gardener
     digest: f750dad0fcffb05fc1c94e2779adf5463bbdb50425b4213e647e315434d7419b
     name: gardener
@@ -173,7 +181,7 @@ entries:
     - https://nais.github.io/charts/gardener-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.427344985Z
+    created: 2018-05-14T07:56:56.719814097Z
     description: NAIS gardener
     digest: 97ccf18460a2646416d8b406b7a21a733c914b89671d5bdd01aa92cd32fd3270
     name: gardener
@@ -182,7 +190,7 @@ entries:
     version: 1.0.0
   nais-confluent:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.436348146Z
+    created: 2018-05-14T07:56:56.728687751Z
     description: NAIS confluent services
     digest: 020a939b7c5306cfe94991da9abf06d03ef8628134c424c85089497c2a02e27e
     maintainers:
@@ -195,7 +203,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.436032611Z
+    created: 2018-05-14T07:56:56.728376928Z
     description: NAIS confluent services
     digest: af39533b77f65ba155bcb31366e3b959743b586afb240f4f5e95126b9599e6d4
     maintainers:
@@ -208,7 +216,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.3.0.tgz
     version: 2.3.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.435691164Z
+    created: 2018-05-14T07:56:56.727941876Z
     description: NAIS confluent services
     digest: 78ffa821b9b321b28e06d2253c383665c4e70b7532a0fe6513eaf71ad080e7dd
     maintainers:
@@ -221,7 +229,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.435276249Z
+    created: 2018-05-14T07:56:56.727629298Z
     description: NAIS confluent services
     digest: 7da898971792b9d24c55877fdc90ebc4268c01e489396f41958accc15925c4f4
     maintainers:
@@ -234,7 +242,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.434981961Z
+    created: 2018-05-14T07:56:56.727340469Z
     description: NAIS confluent services
     digest: c792e852021f002e567437b543650631a0681119e776484b4b1b348f3f9d2e29
     maintainers:
@@ -247,7 +255,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.1.2.tgz
     version: 2.1.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.434657556Z
+    created: 2018-05-14T07:56:56.727027753Z
     description: NAIS confluent services
     digest: b02e6b97de15a110f5738e45e10b906944b523f76b64742b9d8a3068ec32a766
     maintainers:
@@ -260,7 +268,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.434346543Z
+    created: 2018-05-14T07:56:56.726724516Z
     description: NAIS confluent services
     digest: e112729ef0bc186560948334d8054b1563b2bba1a3233d511b72d8d52de16cdd
     maintainers:
@@ -273,7 +281,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.434045955Z
+    created: 2018-05-14T07:56:56.726370216Z
     description: NAIS confluent services
     digest: dd72361bc6611094306d02e31754fb1e5f74af59ccbbde434e9ee668645f60ff
     maintainers:
@@ -286,7 +294,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.433710911Z
+    created: 2018-05-14T07:56:56.726072496Z
     description: NAIS confluent services
     digest: bfbe1e1a42f86952e41022e3593a928993c7ffcda994c8903cb242fc1455c5ff
     maintainers:
@@ -299,7 +307,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.432905593Z
+    created: 2018-05-14T07:56:56.725711046Z
     description: NAIS confluent services
     digest: db7c0c06cbe398223407a8d02fe8737465e2a50df3535252a09286b51f0c115b
     maintainers:
@@ -312,7 +320,7 @@ entries:
     - https://nais.github.io/charts/nais-confluent-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.431756505Z
+    created: 2018-05-14T07:56:56.725382371Z
     description: NAIS confluent services
     digest: 0f20a9d446cc7b51d666db2ece8bae8148dc2d1f9407e6a452c37c570a54a11d
     maintainers:
@@ -326,7 +334,7 @@ entries:
     version: 1.1.0
   nais-logd:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.442918582Z
+    created: 2018-05-14T07:56:56.735301811Z
     description: NAIS log daemon
     digest: ce9291972b4f447ba30aa8b31df0b30c4faf3387688665a78a5777e9432309b4
     maintainers:
@@ -339,7 +347,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.20.0.tgz
     version: 1.20.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.440337668Z
+    created: 2018-05-14T07:56:56.732578641Z
     description: NAIS log daemon
     digest: c1a7a6fb3873186a6d67f53b34f0d38691183afb17725af1f4ba686367b7392f
     maintainers:
@@ -352,7 +360,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.19.0.tgz
     version: 1.19.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.440052544Z
+    created: 2018-05-14T07:56:56.732131045Z
     description: NAIS log daemon
     digest: 0780e73571e256bb0cc5e0ac8bf6584550a1de8f7ac0aeb4e59b775bdac6f108
     maintainers:
@@ -365,7 +373,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.18.0.tgz
     version: 1.18.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.43980755Z
+    created: 2018-05-14T07:56:56.731882351Z
     description: NAIS log daemon
     digest: 304d74ce5394795c1a430d760737b1485809c0475d2aef49ce2870e8a2ac9e77
     maintainers:
@@ -378,7 +386,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.17.0.tgz
     version: 1.17.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.439560709Z
+    created: 2018-05-14T07:56:56.731647748Z
     description: NAIS log daemon
     digest: 8ef1c688b6424c09e52442bb3aa25b0359a34f2eadf48a158492bcc3870b6bf4
     maintainers:
@@ -391,7 +399,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.16.0.tgz
     version: 1.16.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.439311969Z
+    created: 2018-05-14T07:56:56.731414882Z
     description: NAIS log daemon
     digest: faf80e18fb80dbd0764090d661aabc9b1ff689586bb3d01b4d65b08964b276ae
     maintainers:
@@ -404,7 +412,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.15.0.tgz
     version: 1.15.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.43907476Z
+    created: 2018-05-14T07:56:56.73118432Z
     description: NAIS log daemon
     digest: 03ab88f90fb7e132116e6c0132e0b1b3f3814e3518305fdb0425942ad94418fe
     maintainers:
@@ -417,7 +425,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.14.0.tgz
     version: 1.14.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.438845091Z
+    created: 2018-05-14T07:56:56.730954927Z
     description: NAIS log daemon
     digest: 20243af34610a13d7d354a9f640eaee246467124be797b8ef70eb9c279f01f61
     maintainers:
@@ -430,7 +438,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.13.4.tgz
     version: 1.13.4
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.438592294Z
+    created: 2018-05-14T07:56:56.730698891Z
     description: NAIS log daemon
     digest: 39881b7742b4b94270ffc1fad3780ef6499bd2c5f8e60029ec20f05182203593
     maintainers:
@@ -443,7 +451,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.13.3.tgz
     version: 1.13.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.438342533Z
+    created: 2018-05-14T07:56:56.730451456Z
     description: NAIS log daemon
     digest: 8ed82783639d35e4d9957d059856ce98f10cd93c523bbd871ca5be2b035318f2
     maintainers:
@@ -456,7 +464,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.13.2.tgz
     version: 1.13.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.43811441Z
+    created: 2018-05-14T07:56:56.730209934Z
     description: NAIS log daemon
     digest: 6d9473342ba3ae5c30989b717ebf5f2139e7f2910aab7f7433e51dbefd70d16c
     maintainers:
@@ -469,7 +477,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.13.1.tgz
     version: 1.13.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.437858875Z
+    created: 2018-05-14T07:56:56.7299701Z
     description: NAIS log daemon
     digest: c8f7e4a6d2cf9e2f8c1c3c9e195aad6a9b0293bcb45efadef18502b9dd57f2a3
     maintainers:
@@ -482,7 +490,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.13.0.tgz
     version: 1.13.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.437607081Z
+    created: 2018-05-14T07:56:56.729734968Z
     description: NAIS log daemon
     digest: 630cf606cda7c30dd647aa7c1f897b069e3aea9f04d7afbf9137884ddae562e3
     maintainers:
@@ -495,7 +503,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.12.0.tgz
     version: 1.12.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.437354817Z
+    created: 2018-05-14T07:56:56.729506038Z
     description: NAIS log daemon
     digest: 74a830cd231c4bccb9f9a608c2f22fa5f80a37b747622abddd3ff541fe945553
     maintainers:
@@ -508,7 +516,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.11.0.tgz
     version: 1.11.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.437140311Z
+    created: 2018-05-14T07:56:56.729300882Z
     description: NAIS log daemon
     digest: 32c8f89ad9b879b4eab14fc8c54135dc9ad90233f5a3a6224ef2d7d1d7295b55
     maintainers:
@@ -521,7 +529,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.10.0.tgz
     version: 1.10.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.452873334Z
+    created: 2018-05-14T07:56:56.742711454Z
     description: NAIS log daemon
     digest: 008ed8a6276ade0cae1a30dbc22d81c05c8e023e41f2acd3779e3b059f19e098
     maintainers:
@@ -534,7 +542,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.9.0.tgz
     version: 1.9.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.452653873Z
+    created: 2018-05-14T07:56:56.742474793Z
     description: NAIS log daemon
     digest: fa8b874e0a5408c47e543a35fbaad3187e294c5d71dedad3827393c825125683
     maintainers:
@@ -547,7 +555,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.8.tgz
     version: 1.8.8
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.452317601Z
+    created: 2018-05-14T07:56:56.742269172Z
     description: NAIS log daemon
     digest: af0f18ff5ad1e8d28450f209da8099d33cb3ae651b6a4cd80bc52dc686b7c1ad
     maintainers:
@@ -560,7 +568,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.7.tgz
     version: 1.8.7
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.4520475Z
+    created: 2018-05-14T07:56:56.742022706Z
     description: NAIS log daemon
     digest: 5fab0f01bcfca69be9642194b02549946b54a56570d8010fb015f952158324b7
     maintainers:
@@ -573,7 +581,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.6.tgz
     version: 1.8.6
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.451810227Z
+    created: 2018-05-14T07:56:56.741791253Z
     description: NAIS log daemon
     digest: d48d854355048873da1579935ff44b27e0bddebbd6bbefebd0dda529e384c295
     maintainers:
@@ -586,7 +594,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.5.tgz
     version: 1.8.5
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.451551369Z
+    created: 2018-05-14T07:56:56.741560795Z
     description: NAIS log daemon
     digest: 8b1a2a2f63106010073e2f2c06470d9fa2d8a300945539801dffb83a3b6707bb
     maintainers:
@@ -599,7 +607,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.4.tgz
     version: 1.8.4
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.451310724Z
+    created: 2018-05-14T07:56:56.74128944Z
     description: NAIS log daemon
     digest: cbc717e877a0ba07e1ee98eda61bc09b5d0d3b2a5a46143d7917465e2bedef49
     maintainers:
@@ -612,7 +620,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.3.tgz
     version: 1.8.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.451048404Z
+    created: 2018-05-14T07:56:56.741068244Z
     description: NAIS log daemon
     digest: 51122ac85a02b3530885ec700e4026bc084a4d90a98819e6d589f1b61b6eaf81
     maintainers:
@@ -625,7 +633,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.2.tgz
     version: 1.8.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.45074317Z
+    created: 2018-05-14T07:56:56.740846663Z
     description: NAIS log daemon
     digest: 5fd19aa38e3883f6a7a21ddbc40a28c06c91e6ff1faed7067f862441478d0961
     maintainers:
@@ -638,7 +646,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.1.tgz
     version: 1.8.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.450505619Z
+    created: 2018-05-14T07:56:56.740614396Z
     description: NAIS log daemon
     digest: 40b6944988a2a81e6684ce4020dfb244e77f61251fbbf0a2a29327b227361b12
     maintainers:
@@ -651,7 +659,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.450285022Z
+    created: 2018-05-14T07:56:56.740402168Z
     description: NAIS log daemon
     digest: 2c3b17a914e1e48ac763cb4e0f38acfab1837e36fcdb8473377dad47f20c9f3f
     maintainers:
@@ -664,7 +672,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.7.4.tgz
     version: 1.7.4
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.450028434Z
+    created: 2018-05-14T07:56:56.740191533Z
     description: NAIS log daemon
     digest: 9adb6138fa0752903772fdd4274be3890518fd9c96d6868524d41940f1b7110b
     maintainers:
@@ -677,7 +685,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.7.3.tgz
     version: 1.7.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.449787171Z
+    created: 2018-05-14T07:56:56.739937337Z
     description: NAIS log daemon
     digest: 420efa861d41f0da9946993110938a6ed3566b3e4fbb24a6cd2b619cba0d5311
     maintainers:
@@ -690,7 +698,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.7.2.tgz
     version: 1.7.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.449547853Z
+    created: 2018-05-14T07:56:56.739713103Z
     description: NAIS log daemon
     digest: a5b3eea75a67ba84c236e3dcf7ef9beea7e0ede49608c50d45d1f874f14bc94e
     maintainers:
@@ -703,7 +711,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.7.1.tgz
     version: 1.7.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.449297133Z
+    created: 2018-05-14T07:56:56.739429952Z
     description: NAIS log daemon
     digest: ab23f17b49371c5b80296914e7b56a4dd8db2eaddc2e983b4d0503b52debecab
     maintainers:
@@ -716,7 +724,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.449034228Z
+    created: 2018-05-14T07:56:56.739215145Z
     description: NAIS log daemon
     digest: 066a4d996c42438b905a1010c8bc6f31cdaae0b7f979931523affbc570f1ccbb
     maintainers:
@@ -729,7 +737,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.448775167Z
+    created: 2018-05-14T07:56:56.738974504Z
     description: NAIS log daemon
     digest: c3e12ea0f83cf2c437463dc5d9def3ee8bc560d042eadde81efecaa63eadc140
     maintainers:
@@ -742,7 +750,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.5.3.tgz
     version: 1.5.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.448461487Z
+    created: 2018-05-14T07:56:56.738731251Z
     description: NAIS log daemon
     digest: e90fe27fa389f2d095a381b4041f381283a23b39b2b95f6c400b5533bc573a33
     maintainers:
@@ -755,7 +763,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.5.2.tgz
     version: 1.5.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.447982223Z
+    created: 2018-05-14T07:56:56.738451598Z
     description: NAIS log daemon
     digest: 5ff8fb15c0381dbbae9b5ecb4f0b9a880f4017a496be35aaa97de1ff6a20494a
     maintainers:
@@ -768,7 +776,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.5.1.tgz
     version: 1.5.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.447163568Z
+    created: 2018-05-14T07:56:56.738201861Z
     description: NAIS log daemon
     digest: 3bf2f74688214f185506323e3704a82aadd9d59ea56b85fbe57439424613b840
     maintainers:
@@ -781,7 +789,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.446293582Z
+    created: 2018-05-14T07:56:56.737677267Z
     description: NAIS log daemon
     digest: 252dac9c4495d778f38c9747ee43b3101568a227a9740cde58c23fb7ca4f201e
     maintainers:
@@ -794,7 +802,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.445408259Z
+    created: 2018-05-14T07:56:56.737139623Z
     description: NAIS log daemon
     digest: 9b0cac91275fedf91ef1c8c6d71e32acbdead3359fd68c3230cb9ba574f2ae27
     maintainers:
@@ -807,7 +815,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.3.2.tgz
     version: 1.3.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.444596526Z
+    created: 2018-05-14T07:56:56.736499116Z
     description: NAIS log daemon
     digest: 98fd88527f521fdc5248fa0e16f164734da304848d889dd37129e0e35838de51
     maintainers:
@@ -820,7 +828,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.443689602Z
+    created: 2018-05-14T07:56:56.735899489Z
     description: NAIS log daemon
     digest: cf6dd68e1144fc336def5620efbb051e55ec58bbb63840e4e42f2682b14221f8
     maintainers:
@@ -833,7 +841,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.44225385Z
+    created: 2018-05-14T07:56:56.734710081Z
     description: NAIS log daemon
     digest: 2a799560b2546e3c445b39645110af18346e7df074c98ce2e6af354e1a662154
     maintainers:
@@ -846,7 +854,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.441258115Z
+    created: 2018-05-14T07:56:56.734074396Z
     description: NAIS log daemon
     digest: a8ef5145b09f337fc9464759b2fee31b2c720aef2660abc5124d1ec79bc27d11
     maintainers:
@@ -859,7 +867,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.440709635Z
+    created: 2018-05-14T07:56:56.73349159Z
     description: NAIS log daemon
     digest: c99cc8fc30d22447c3c1f84fdf331cc45cd36e08547401d9d8bce0d8340b6ad6
     maintainers:
@@ -872,7 +880,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.436848576Z
+    created: 2018-05-14T07:56:56.72907984Z
     description: NAIS log daemon
     digest: ed0d852c155ea58ee4c1806948a6ebe26e3dda345c4af6622e4f169f3ce238b9
     maintainers:
@@ -885,7 +893,7 @@ entries:
     - https://nais.github.io/charts/nais-logd-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.436618208Z
+    created: 2018-05-14T07:56:56.728866641Z
     description: NAIS log daemon
     digest: 18f581314b1a836af046561d458b01c5aed304f7c364772b425f7cd2157a2b50
     maintainers:
@@ -899,7 +907,7 @@ entries:
     version: 1.0.0
   nais-namespace-config:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.454675053Z
+    created: 2018-05-14T07:56:56.744225815Z
     description: NAIS namespace config
     digest: 0083eb223ccbd59526e5ff061f7125fb2dad24fd17b9d697ecceb631e168ac37
     maintainers:
@@ -912,7 +920,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.454456313Z
+    created: 2018-05-14T07:56:56.74398716Z
     description: NAIS namespace config
     digest: 3b59f7bb29ef7eee119bf1cee1c63d713ef9f5a963a57251fbe6e23870e3fa55
     maintainers:
@@ -925,7 +933,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.454246736Z
+    created: 2018-05-14T07:56:56.743796038Z
     description: NAIS namespace config
     digest: 737feaf6f8bcff2bb0b1410c7d90216eb17d34de9d1d950f3768d1d1738c509e
     maintainers:
@@ -938,7 +946,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.453881838Z
+    created: 2018-05-14T07:56:56.743593855Z
     description: NAIS namespace config
     digest: 31232e656d1f78876ad29e45c36224000487cc8a3d9bf50c3580dd752e485608
     maintainers:
@@ -951,7 +959,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.453639566Z
+    created: 2018-05-14T07:56:56.743372187Z
     description: NAIS namespace config
     digest: d16f3fb3ca1b76745130124c0241e6829b8ec0b2ef6b8495bbb1f2d309ca2f7d
     maintainers:
@@ -964,7 +972,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.453388414Z
+    created: 2018-05-14T07:56:56.743149914Z
     description: NAIS namespace config
     digest: 5eb46af5bcd8cedbdb12359859231dbcc2d701103ac3ef91227a7e3ed5e474f7
     maintainers:
@@ -977,7 +985,7 @@ entries:
     - https://nais.github.io/charts/nais-namespace-config-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.453132702Z
+    created: 2018-05-14T07:56:56.742934581Z
     description: NAIS namespace config
     digest: c42e751a4be3587fe82ec8b17ad030e6175960801ef54838d4c170bf68f15494
     maintainers:
@@ -991,7 +999,7 @@ entries:
     version: 0.1.0
   nais-sensu:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.455653283Z
+    created: 2018-05-14T07:56:56.745228685Z
     description: NAIS Sensu service
     digest: 3311935d9adc71701dde058d9f1736d929ebd6937f883880669f7dce5adf4841
     maintainers:
@@ -1004,7 +1012,7 @@ entries:
     - https://nais.github.io/charts/nais-sensu-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.455414875Z
+    created: 2018-05-14T07:56:56.745002325Z
     description: NAIS Sensu service
     digest: da18ae7928737d197c5328a449ce687024ee28ac7c0f703fa223188b61c54688
     maintainers:
@@ -1017,7 +1025,7 @@ entries:
     - https://nais.github.io/charts/nais-sensu-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.455207841Z
+    created: 2018-05-14T07:56:56.744797196Z
     description: NAIS Sensu service
     digest: 41ea2895c2cc89f90c077538188d937f61898e723cf85122bc7b662d426c9d0c
     maintainers:
@@ -1030,7 +1038,7 @@ entries:
     - https://nais.github.io/charts/nais-sensu-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.455024472Z
+    created: 2018-05-14T07:56:56.744559202Z
     description: NAIS Sensu service
     digest: a629577994afcfc0a3610eb50825106ba94dd8b1628a4efca9945d8c92c5dd10
     maintainers:
@@ -1043,7 +1051,7 @@ entries:
     - https://nais.github.io/charts/nais-sensu-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.454854678Z
+    created: 2018-05-14T07:56:56.744396105Z
     description: NAIS Sensu service
     digest: d5d4a4be8c64db328ea426b6e4abe6b7ee99fcf64c22a5eeed619aa41ebfca73
     maintainers:
@@ -1057,7 +1065,7 @@ entries:
     version: 1.0.0
   naisd:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.50592921Z
+    created: 2018-05-14T07:56:56.788867507Z
     description: NAIS daemon
     digest: b805f7a686d6e7cf5dd92c15c33648c5e4adaf99a41b6be684ab449b0569624f
     name: naisd
@@ -1065,7 +1073,7 @@ entries:
     - https://nais.github.io/charts/naisd-255.0.0.tgz
     version: 255.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.505621248Z
+    created: 2018-05-14T07:56:56.788615079Z
     description: NAIS daemon
     digest: b44bc9e26db147e6da094a5f935e0c3ca639f146951ea40b288c3ac37d29945f
     name: naisd
@@ -1073,7 +1081,7 @@ entries:
     - https://nais.github.io/charts/naisd-254.0.0.tgz
     version: 254.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.505388486Z
+    created: 2018-05-14T07:56:56.788395348Z
     description: NAIS daemon
     digest: 6210d8b7c1791c9031e86fa47b6b68595167ddc5f0158fb8c8800bae9102b2a0
     name: naisd
@@ -1081,7 +1089,7 @@ entries:
     - https://nais.github.io/charts/naisd-253.0.0.tgz
     version: 253.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.505150235Z
+    created: 2018-05-14T07:56:56.788183291Z
     description: NAIS daemon
     digest: f08ed5bdbfb74abd1ea247e8adcbb74060cb11f831669157d39cd3acec51246e
     name: naisd
@@ -1089,7 +1097,7 @@ entries:
     - https://nais.github.io/charts/naisd-252.0.0.tgz
     version: 252.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.504929839Z
+    created: 2018-05-14T07:56:56.787945224Z
     description: NAIS daemon
     digest: e07a128c9d9b86ce3a236fff8f12de137a2754e91dee70ec9960159144a138b1
     name: naisd
@@ -1097,7 +1105,7 @@ entries:
     - https://nais.github.io/charts/naisd-251.0.0.tgz
     version: 251.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.504683325Z
+    created: 2018-05-14T07:56:56.78771609Z
     description: NAIS daemon
     digest: a718a5195f32790316aeabbdcac3b1b7bf4c995947131cb26f8d4d1e354282c1
     name: naisd
@@ -1105,7 +1113,7 @@ entries:
     - https://nais.github.io/charts/naisd-250.0.0.tgz
     version: 250.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.504332785Z
+    created: 2018-05-14T07:56:56.787393886Z
     description: NAIS daemon
     digest: a55c318677de89d1d19272a3c5028f2d512aff9daa4d1282b114164e0a529d1a
     name: naisd
@@ -1113,7 +1121,7 @@ entries:
     - https://nais.github.io/charts/naisd-249.0.0.tgz
     version: 249.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.504094735Z
+    created: 2018-05-14T07:56:56.787170963Z
     description: NAIS daemon
     digest: b730ce5e3eec5190b79d44ee46638c2e1e33eebcdbc24824bf28b41368ed7ed5
     name: naisd
@@ -1121,7 +1129,7 @@ entries:
     - https://nais.github.io/charts/naisd-248.0.0.tgz
     version: 248.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.503780065Z
+    created: 2018-05-14T07:56:56.786937728Z
     description: NAIS daemon
     digest: 147f5c278677c5831c6cfaf7e7c293d786c3a678d05239e8b95f0bd2490fcdf5
     name: naisd
@@ -1129,7 +1137,7 @@ entries:
     - https://nais.github.io/charts/naisd-247.0.0.tgz
     version: 247.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.503343496Z
+    created: 2018-05-14T07:56:56.786646511Z
     description: NAIS daemon
     digest: 7f344232e7d5e86eadba53001bb1ef1f621c51d4a8fd2239f9876c2414fc30ee
     name: naisd
@@ -1137,7 +1145,7 @@ entries:
     - https://nais.github.io/charts/naisd-246.0.0.tgz
     version: 246.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.502683299Z
+    created: 2018-05-14T07:56:56.786284802Z
     description: NAIS daemon
     digest: bab3112f1ecc3e6c85220150aecc6583c4972dace11334957e61d301a41c3cb1
     name: naisd
@@ -1145,7 +1153,7 @@ entries:
     - https://nais.github.io/charts/naisd-245.0.0.tgz
     version: 245.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.502058864Z
+    created: 2018-05-14T07:56:56.785696282Z
     description: NAIS daemon
     digest: 6e6b66236ba891e016ce9d2b5d463479bd4bec1b1b228e184a1fa2f0ba8a8913
     name: naisd
@@ -1153,7 +1161,7 @@ entries:
     - https://nais.github.io/charts/naisd-244.0.0.tgz
     version: 244.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.501449959Z
+    created: 2018-05-14T07:56:56.785137255Z
     description: NAIS daemon
     digest: 39a1ab4f16d5319fa97ffd4c2440325fd4acbc2417c0991df5b71547d2bcfe1f
     name: naisd
@@ -1161,7 +1169,7 @@ entries:
     - https://nais.github.io/charts/naisd-243.0.0.tgz
     version: 243.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.500838776Z
+    created: 2018-05-14T07:56:56.784558075Z
     description: NAIS daemon
     digest: 4ec45b9f22fdc21fe30ecb7ab8ccdd0d07a9410a43acd5ef2f1a9e426be09a0e
     name: naisd
@@ -1169,7 +1177,7 @@ entries:
     - https://nais.github.io/charts/naisd-242.0.0.tgz
     version: 242.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.500207301Z
+    created: 2018-05-14T07:56:56.783973158Z
     description: NAIS daemon
     digest: 78a409775b3447df3bba2c7e63c9da0c0a89e461d1ad601b615cface5028f51d
     name: naisd
@@ -1177,7 +1185,7 @@ entries:
     - https://nais.github.io/charts/naisd-241.0.0.tgz
     version: 241.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.499645651Z
+    created: 2018-05-14T07:56:56.783429754Z
     description: NAIS daemon
     digest: de267f50d59a57cce1e912644b3cf79c1c2f5c8203969cf0b5a2e56f2aebb696
     name: naisd
@@ -1185,7 +1193,7 @@ entries:
     - https://nais.github.io/charts/naisd-240.0.0.tgz
     version: 240.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.499075215Z
+    created: 2018-05-14T07:56:56.782837413Z
     description: NAIS daemon
     digest: b2ec0312fa1491ac097c5754529adc2f013830b535a01395d452c82fd835c328
     name: naisd
@@ -1193,7 +1201,7 @@ entries:
     - https://nais.github.io/charts/naisd-239.0.0.tgz
     version: 239.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.498318236Z
+    created: 2018-05-14T07:56:56.782091693Z
     description: NAIS daemon
     digest: 4f1502a96f06c5b689712d6b4eca208a4697836541f82c94b021d5aaa79465f6
     name: naisd
@@ -1201,7 +1209,7 @@ entries:
     - https://nais.github.io/charts/naisd-238.0.0.tgz
     version: 238.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.497693878Z
+    created: 2018-05-14T07:56:56.781437261Z
     description: NAIS daemon
     digest: 00eaa6a73b880c2b2a672befbeb49a966cda67950b315f7338f6a8fb676cd988
     name: naisd
@@ -1209,7 +1217,7 @@ entries:
     - https://nais.github.io/charts/naisd-237.0.0.tgz
     version: 237.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.496799525Z
+    created: 2018-05-14T07:56:56.780467252Z
     description: NAIS daemon
     digest: 09a5b373085fbb276a44445849d0491ff5bddbf853e087cf6bf504a2c987b140
     name: naisd
@@ -1217,7 +1225,7 @@ entries:
     - https://nais.github.io/charts/naisd-236.0.0.tgz
     version: 236.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.496556448Z
+    created: 2018-05-14T07:56:56.780216258Z
     description: NAIS daemon
     digest: b4b215b9aacf540745e71953dfdaba78da7e790542bc550480925995f7da4b55
     name: naisd
@@ -1225,7 +1233,7 @@ entries:
     - https://nais.github.io/charts/naisd-235.0.0.tgz
     version: 235.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49625763Z
+    created: 2018-05-14T07:56:56.779991159Z
     description: NAIS daemon
     digest: 67454f67f2eb7ad2036629653fb00fe4088a26b60214249f101fa93077ccaf8f
     name: naisd
@@ -1233,7 +1241,7 @@ entries:
     - https://nais.github.io/charts/naisd-234.0.0.tgz
     version: 234.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49604133Z
+    created: 2018-05-14T07:56:56.779770999Z
     description: NAIS daemon
     digest: 334bdec7c453389f4c8f4f491e214791f11f25c79ddd7e2d89ff1e1c1f5d6004
     name: naisd
@@ -1241,7 +1249,7 @@ entries:
     - https://nais.github.io/charts/naisd-233.0.0.tgz
     version: 233.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.495820724Z
+    created: 2018-05-14T07:56:56.779552896Z
     description: NAIS daemon
     digest: c834710231abee007084b9b93132c1c9c97e1643a482aeb804f1bbabd261ab5c
     name: naisd
@@ -1249,7 +1257,7 @@ entries:
     - https://nais.github.io/charts/naisd-232.0.0.tgz
     version: 232.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.495582185Z
+    created: 2018-05-14T07:56:56.779335604Z
     description: NAIS daemon
     digest: 72c33201060e3f8f931c36afbe7dd74c15b7165a57a26f85337e3b7dde1e8d96
     name: naisd
@@ -1257,7 +1265,7 @@ entries:
     - https://nais.github.io/charts/naisd-231.0.0.tgz
     version: 231.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.495283127Z
+    created: 2018-05-14T07:56:56.779096278Z
     description: NAIS daemon
     digest: b4980adfd63a2ebfb9cb0abd47f9ae446b9d765abb15ea7480146403161c3b1b
     name: naisd
@@ -1265,7 +1273,7 @@ entries:
     - https://nais.github.io/charts/naisd-230.0.0.tgz
     version: 230.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.495039205Z
+    created: 2018-05-14T07:56:56.778867449Z
     description: NAIS daemon
     digest: 3c1cdb33cda2c9feee62e3c6704847a194233d7d5b4e3730bedc17d6facdcd1f
     name: naisd
@@ -1273,7 +1281,7 @@ entries:
     - https://nais.github.io/charts/naisd-229.0.0.tgz
     version: 229.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.494807514Z
+    created: 2018-05-14T07:56:56.778528608Z
     description: NAIS daemon
     digest: 8b955da0aa2c02fce53bb95d99b4ac935ae9b847ea41895f5f9b0757d5ebfa1a
     name: naisd
@@ -1281,7 +1289,7 @@ entries:
     - https://nais.github.io/charts/naisd-228.0.0.tgz
     version: 228.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.494558686Z
+    created: 2018-05-14T07:56:56.778304236Z
     description: NAIS daemon
     digest: 2124009388f946aa598357f92063e87d2fbcec643a3e9087ac447569965e218f
     name: naisd
@@ -1289,7 +1297,7 @@ entries:
     - https://nais.github.io/charts/naisd-227.0.0.tgz
     version: 227.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.494276115Z
+    created: 2018-05-14T07:56:56.778075278Z
     description: NAIS daemon
     digest: afcadb083ec6d8318fca33bd7029e52585141e1726acc1497c03e793d0144fb2
     name: naisd
@@ -1297,7 +1305,7 @@ entries:
     - https://nais.github.io/charts/naisd-226.0.0.tgz
     version: 226.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.494049246Z
+    created: 2018-05-14T07:56:56.777859768Z
     description: NAIS daemon
     digest: 6547b0c4d798529e42994136c1b8468c8eb39b5372926fcdbd51953183eeb691
     name: naisd
@@ -1305,7 +1313,7 @@ entries:
     - https://nais.github.io/charts/naisd-225.0.0.tgz
     version: 225.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.493816388Z
+    created: 2018-05-14T07:56:56.777646672Z
     description: NAIS daemon
     digest: 76c1a40f82ffaaab754f36651fca64917b08ccfd248fc8589dcce46c13cfd3b9
     name: naisd
@@ -1313,7 +1321,7 @@ entries:
     - https://nais.github.io/charts/naisd-224.0.0.tgz
     version: 224.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.493534644Z
+    created: 2018-05-14T07:56:56.777434954Z
     description: NAIS daemon
     digest: 9337d5e0418b2a5eb093d9e0eeb76c47cfcd0f02a0f45c0cdb9b043d561448c0
     name: naisd
@@ -1321,7 +1329,7 @@ entries:
     - https://nais.github.io/charts/naisd-219.0.0.tgz
     version: 219.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.493307858Z
+    created: 2018-05-14T07:56:56.777217112Z
     description: NAIS daemon
     digest: 65f3657739152c8539bba17cdae614003887c9971611fcf25a92ea6387a44e3f
     name: naisd
@@ -1329,7 +1337,7 @@ entries:
     - https://nais.github.io/charts/naisd-218.0.0.tgz
     version: 218.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.493053306Z
+    created: 2018-05-14T07:56:56.77697009Z
     description: NAIS daemon
     digest: 47b8a2840899d599a07feafc5cdd390857678c0161ccfeb5ca1c9f402444ad59
     name: naisd
@@ -1337,7 +1345,7 @@ entries:
     - https://nais.github.io/charts/naisd-217.0.0.tgz
     version: 217.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.492811521Z
+    created: 2018-05-14T07:56:56.776747434Z
     description: NAIS daemon
     digest: a69cd831e929cad572edfe13e8b9c60efce9a04b0241ecb88b3038c0ee11296e
     name: naisd
@@ -1345,7 +1353,7 @@ entries:
     - https://nais.github.io/charts/naisd-216.0.0.tgz
     version: 216.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49256596Z
+    created: 2018-05-14T07:56:56.776525703Z
     description: NAIS daemon
     digest: 1037a17fc11c5127b7bd7c4421965b3fe3a2ee2ba08179cdfc9131ec24993ca9
     name: naisd
@@ -1353,7 +1361,7 @@ entries:
     - https://nais.github.io/charts/naisd-215.0.0.tgz
     version: 215.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.492259118Z
+    created: 2018-05-14T07:56:56.776303634Z
     description: NAIS daemon
     digest: 96a316bc909ca641dd4bc26ca5eb8fbac59dfe3f14a88d50320e8fc7a304f268
     name: naisd
@@ -1361,7 +1369,7 @@ entries:
     - https://nais.github.io/charts/naisd-214.0.0.tgz
     version: 214.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49203403Z
+    created: 2018-05-14T07:56:56.77607242Z
     description: NAIS daemon
     digest: 7afd2028de905d0c4574fbc87cbfde8ef50db691bfc929377088fc778855fce4
     name: naisd
@@ -1369,7 +1377,7 @@ entries:
     - https://nais.github.io/charts/naisd-213.0.0.tgz
     version: 213.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.491800949Z
+    created: 2018-05-14T07:56:56.775854462Z
     description: NAIS daemon
     digest: 86ce06aa7e01eb26dc4884a2b90562e0f9bf9fbc1be37f0d1b40f00a6329ee4b
     name: naisd
@@ -1377,7 +1385,7 @@ entries:
     - https://nais.github.io/charts/naisd-212.0.0.tgz
     version: 212.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.491552421Z
+    created: 2018-05-14T07:56:56.775630931Z
     description: NAIS daemon
     digest: f89dfb6f5bcc0cccf10c4250723617b7337e31a9e787ffd94405650c1e8ffeeb
     name: naisd
@@ -1385,7 +1393,7 @@ entries:
     - https://nais.github.io/charts/naisd-211.0.0.tgz
     version: 211.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.491233875Z
+    created: 2018-05-14T07:56:56.775412754Z
     description: NAIS daemon
     digest: 1c0bd55f95cb2c2b53c64e5e328a3f5b1bc37025495b86adc67c5166aae761cd
     name: naisd
@@ -1393,7 +1401,7 @@ entries:
     - https://nais.github.io/charts/naisd-210.0.0.tgz
     version: 210.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49100771Z
+    created: 2018-05-14T07:56:56.775192659Z
     description: NAIS daemon
     digest: 15fd119cc879988b142de8bfa8f421a6b11477ff6dadead856a982fd09735014
     name: naisd
@@ -1401,7 +1409,7 @@ entries:
     - https://nais.github.io/charts/naisd-208.0.0.tgz
     version: 208.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.490785966Z
+    created: 2018-05-14T07:56:56.774960409Z
     description: NAIS daemon
     digest: de7a1a1e2d2a734703b8cdb9a37596a1bb7072b2464da195cfde5a08e6ec949e
     name: naisd
@@ -1409,7 +1417,7 @@ entries:
     - https://nais.github.io/charts/naisd-207.0.0.tgz
     version: 207.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.49054924Z
+    created: 2018-05-14T07:56:56.774670454Z
     description: NAIS daemon
     digest: 3949f95117c5301272efddbbe748e465799c4a87c0274716e6e882c94ec859c4
     name: naisd
@@ -1417,7 +1425,7 @@ entries:
     - https://nais.github.io/charts/naisd-206.0.0.tgz
     version: 206.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.490321893Z
+    created: 2018-05-14T07:56:56.774452554Z
     description: NAIS daemon
     digest: 0d08e10302220b8d6613a2efb60fcc2165a31a5bb2e57049ed483281e413bd6f
     name: naisd
@@ -1425,7 +1433,7 @@ entries:
     - https://nais.github.io/charts/naisd-205.0.0.tgz
     version: 205.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.490022359Z
+    created: 2018-05-14T07:56:56.77422959Z
     description: NAIS daemon
     digest: 365731e3c9166c5f17afc1cd5e9b473a799bdcdc43ae474d55d98220e2145fe9
     name: naisd
@@ -1433,7 +1441,7 @@ entries:
     - https://nais.github.io/charts/naisd-204.0.0.tgz
     version: 204.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.489472834Z
+    created: 2018-05-14T07:56:56.77392033Z
     description: NAIS daemon
     digest: 7c60fe7d2f0bec3dc609e4de0304e54a714e707ef73302e0b5194c6d22786be5
     name: naisd
@@ -1441,7 +1449,7 @@ entries:
     - https://nais.github.io/charts/naisd-203.0.0.tgz
     version: 203.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.488863204Z
+    created: 2018-05-14T07:56:56.773434935Z
     description: NAIS daemon
     digest: cbbc1f18aa84ccc823b360990cfd2297ebf05a797f88fab35dd60b4bef27a9fa
     name: naisd
@@ -1449,7 +1457,7 @@ entries:
     - https://nais.github.io/charts/naisd-202.0.0.tgz
     version: 202.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.488164257Z
+    created: 2018-05-14T07:56:56.772810359Z
     description: NAIS daemon
     digest: 1d07b5770bad0a8cb62b8b771a14079bd64afc11ce3c5f229d9fc09c74a185a9
     name: naisd
@@ -1457,7 +1465,7 @@ entries:
     - https://nais.github.io/charts/naisd-201.0.0.tgz
     version: 201.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.487795963Z
+    created: 2018-05-14T07:56:56.772366322Z
     description: NAIS daemon
     digest: f5835b1c6423315471618268c788bcd8c3449b9093bd79f86198a800aece4836
     name: naisd
@@ -1465,7 +1473,7 @@ entries:
     - https://nais.github.io/charts/naisd-200.0.1.tgz
     version: 200.0.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.487214126Z
+    created: 2018-05-14T07:56:56.771658003Z
     description: NAIS daemon
     digest: 0386b1a5fa9bca1bec855c10d2a3ce0b870e92a69d78b2561c76e5baa64ba562
     name: naisd
@@ -1473,7 +1481,7 @@ entries:
     - https://nais.github.io/charts/naisd-200.0.0.tgz
     version: 200.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.486805586Z
+    created: 2018-05-14T07:56:56.771213588Z
     description: NAIS daemon
     digest: cd58523994919f58023c739066f27c5869a5c0a697dbbf6468815aeaac062b00
     name: naisd
@@ -1481,7 +1489,7 @@ entries:
     - https://nais.github.io/charts/naisd-199.0.0.tgz
     version: 199.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.486389603Z
+    created: 2018-05-14T07:56:56.770828955Z
     description: NAIS daemon
     digest: ff927754279d4163cabd89292a94147e32308d440a0fb4a13fba4925d0f944a0
     name: naisd
@@ -1489,7 +1497,7 @@ entries:
     - https://nais.github.io/charts/naisd-198.0.0.tgz
     version: 198.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.485959828Z
+    created: 2018-05-14T07:56:56.770418918Z
     description: NAIS daemon
     digest: 7e6d1a74bf51b3d3de796af3e3764da2ede02090285be300fd35ce4b45b863e5
     name: naisd
@@ -1497,7 +1505,7 @@ entries:
     - https://nais.github.io/charts/naisd-197.0.0.tgz
     version: 197.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.485531742Z
+    created: 2018-05-14T07:56:56.769996193Z
     description: NAIS daemon
     digest: fcf52c0f403f01aaf60812aebf94fdf94b8ac602296afabaa52305eebb3badbd
     name: naisd
@@ -1505,7 +1513,7 @@ entries:
     - https://nais.github.io/charts/naisd-196.0.0.tgz
     version: 196.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.484996218Z
+    created: 2018-05-14T07:56:56.769432976Z
     description: NAIS daemon
     digest: 28e3ac4b635bc370158f617c8f196cc51ae276d0c20d371527b87eb6fa80ac1e
     name: naisd
@@ -1513,7 +1521,7 @@ entries:
     - https://nais.github.io/charts/naisd-194.0.0.tgz
     version: 194.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.48457979Z
+    created: 2018-05-14T07:56:56.768889867Z
     description: NAIS daemon
     digest: 17881db2797134e75059560130e29d986bf8536728fa1a7651f0c176fe3ae9be
     name: naisd
@@ -1521,7 +1529,7 @@ entries:
     - https://nais.github.io/charts/naisd-193.0.0.tgz
     version: 193.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.484037767Z
+    created: 2018-05-14T07:56:56.768105358Z
     description: NAIS daemon
     digest: 07cc33e3381248be8cab245304e57ab1cb0304d302ea38f031e9b4ca4103f509
     name: naisd
@@ -1529,7 +1537,7 @@ entries:
     - https://nais.github.io/charts/naisd-192.0.0.tgz
     version: 192.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.483388888Z
+    created: 2018-05-14T07:56:56.767849703Z
     description: NAIS daemon
     digest: 7c402ac65a02458fe46f5a2a8929eae7eff12f192529ad9a58a31422456f239d
     name: naisd
@@ -1537,7 +1545,7 @@ entries:
     - https://nais.github.io/charts/naisd-191.0.0.tgz
     version: 191.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.483008856Z
+    created: 2018-05-14T07:56:56.767575219Z
     description: NAIS daemon
     digest: 3d7e9c65c10157c3f7cba753bc39a890f8fe11c885d6b1cb8af55114d113c123
     name: naisd
@@ -1545,7 +1553,7 @@ entries:
     - https://nais.github.io/charts/naisd-189.0.0.tgz
     version: 189.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.482821413Z
+    created: 2018-05-14T07:56:56.767392878Z
     description: NAIS daemon
     digest: 5402e01a428f0fd17c0522178de3b81c923f1c6ecc0c944db59e398f5270a777
     name: naisd
@@ -1553,7 +1561,7 @@ entries:
     - https://nais.github.io/charts/naisd-188.0.0.tgz
     version: 188.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.482613397Z
+    created: 2018-05-14T07:56:56.767235556Z
     description: NAIS daemon
     digest: 960626260b074cdb233f5f6a82a72036ef29976de83ca02a7396eff0325e8a2b
     name: naisd
@@ -1561,7 +1569,7 @@ entries:
     - https://nais.github.io/charts/naisd-187.0.0.tgz
     version: 187.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.482409805Z
+    created: 2018-05-14T07:56:56.767066444Z
     description: NAIS daemon
     digest: 9cd1fac108d392d0955079e18ea6800a70934d9ac6d5c5403017dc2747b4fa16
     name: naisd
@@ -1569,7 +1577,7 @@ entries:
     - https://nais.github.io/charts/naisd-186.0.0.tgz
     version: 186.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.482249695Z
+    created: 2018-05-14T07:56:56.766897731Z
     description: NAIS daemon
     digest: b8d3f8e22c6b8813df056b3fb8e7582bdc0ed86235263cd7551119f5c5c3b920
     name: naisd
@@ -1577,7 +1585,7 @@ entries:
     - https://nais.github.io/charts/naisd-185.0.0.tgz
     version: 185.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.482086749Z
+    created: 2018-05-14T07:56:56.766728355Z
     description: NAIS daemon
     digest: c26d78e93e819570bd3c0d9dee43a06cf4d28382327673c48e023616ce00f1ef
     name: naisd
@@ -1585,7 +1593,7 @@ entries:
     - https://nais.github.io/charts/naisd-183.0.0.tgz
     version: 183.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481914729Z
+    created: 2018-05-14T07:56:56.766532246Z
     description: NAIS daemon
     digest: e7a814e3a643ee04e634630a343b1f6ed2dad19deeda3bec2a6be804eec5d3e8
     name: naisd
@@ -1593,7 +1601,7 @@ entries:
     - https://nais.github.io/charts/naisd-182.0.0.tgz
     version: 182.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481748584Z
+    created: 2018-05-14T07:56:56.766375681Z
     description: NAIS daemon
     digest: 1ccaf1db8a9370949fd067aefbba6ffaf725dbc144aa809f1c5ac2803cbe06ef
     name: naisd
@@ -1601,7 +1609,7 @@ entries:
     - https://nais.github.io/charts/naisd-181.0.0.tgz
     version: 181.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481565944Z
+    created: 2018-05-14T07:56:56.766209223Z
     description: NAIS daemon
     digest: 292b84418749417a637871af54e64eb4e345956ea30ec1f37ccea0d44541dc97
     name: naisd
@@ -1609,7 +1617,7 @@ entries:
     - https://nais.github.io/charts/naisd-180.0.0.tgz
     version: 180.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481403346Z
+    created: 2018-05-14T07:56:56.766047393Z
     description: NAIS daemon
     digest: 6f523d495bf3479202367afb6a99117fa9c07c325a035a724c15059d7daaffcb
     name: naisd
@@ -1617,7 +1625,7 @@ entries:
     - https://nais.github.io/charts/naisd-179.0.0.tgz
     version: 179.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481249453Z
+    created: 2018-05-14T07:56:56.765889324Z
     description: NAIS daemon
     digest: 9a361384fabcfc83b355df570a97f2ef91374e16a9fa5734d881a19d4bcb0e94
     name: naisd
@@ -1625,7 +1633,7 @@ entries:
     - https://nais.github.io/charts/naisd-178.0.0.tgz
     version: 178.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.481080353Z
+    created: 2018-05-14T07:56:56.765691871Z
     description: NAIS daemon
     digest: 14916a6967de120f87cae1a02a78d9fdf69878e400a7372c5e6c9f559310b10c
     name: naisd
@@ -1633,7 +1641,7 @@ entries:
     - https://nais.github.io/charts/naisd-177.0.0.tgz
     version: 177.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.480891044Z
+    created: 2018-05-14T07:56:56.765514966Z
     description: NAIS daemon
     digest: 07962bbe365e1e85743697fd49380494807d0f53fb5adaaa841e8567f641fbd7
     name: naisd
@@ -1641,7 +1649,7 @@ entries:
     - https://nais.github.io/charts/naisd-176.0.0.tgz
     version: 176.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.480581911Z
+    created: 2018-05-14T07:56:56.765357023Z
     description: NAIS daemon
     digest: 1cda8c8b020227db3277b1cb53d10a1a1f9343605acf16063baf901e40eb5c72
     name: naisd
@@ -1649,7 +1657,7 @@ entries:
     - https://nais.github.io/charts/naisd-175.0.0.tgz
     version: 175.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.480238997Z
+    created: 2018-05-14T07:56:56.765207387Z
     description: NAIS daemon
     digest: 47bcdd33c034f2a7dd32bfe262a1e46134bc49451449e373db006aa5b0283953
     name: naisd
@@ -1657,7 +1665,7 @@ entries:
     - https://nais.github.io/charts/naisd-174.0.0.tgz
     version: 174.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.48001003Z
+    created: 2018-05-14T07:56:56.765048231Z
     description: NAIS daemon
     digest: ac8a04b46f996143fd76abd1f72aee69f531f5e4a46f615cd862434cbc997e0f
     name: naisd
@@ -1665,7 +1673,7 @@ entries:
     - https://nais.github.io/charts/naisd-173.0.0.tgz
     version: 173.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.479774939Z
+    created: 2018-05-14T07:56:56.764900912Z
     description: NAIS daemon
     digest: 749d79c8d6fa63b65d79db5882727cdf87a0139f40eb026c91e413659a9761a8
     name: naisd
@@ -1673,7 +1681,7 @@ entries:
     - https://nais.github.io/charts/naisd-172.0.0.tgz
     version: 172.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.479583412Z
+    created: 2018-05-14T07:56:56.764751029Z
     description: NAIS daemon
     digest: 757256893092aec75d51290254a0e445c0a551fd1c4c19c75537563fac85059f
     name: naisd
@@ -1681,7 +1689,7 @@ entries:
     - https://nais.github.io/charts/naisd-171.0.0.tgz
     version: 171.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.479418009Z
+    created: 2018-05-14T07:56:56.764590877Z
     description: NAIS daemon
     digest: 72a398e6ac9119a7de909af244071e3c39c67f88014e5353689820a0c566ce0c
     name: naisd
@@ -1689,7 +1697,7 @@ entries:
     - https://nais.github.io/charts/naisd-170.0.0.tgz
     version: 170.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.479259089Z
+    created: 2018-05-14T07:56:56.764442668Z
     description: NAIS daemon
     digest: 12c385b3b24c8b22433875cf4e722c65dd2011a9fddba400e8172913b45e1416
     name: naisd
@@ -1697,7 +1705,7 @@ entries:
     - https://nais.github.io/charts/naisd-169.0.0.tgz
     version: 169.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.479090016Z
+    created: 2018-05-14T07:56:56.764290654Z
     description: NAIS daemon
     digest: c266d382848ceed2575a743c40395131b0e67a228907ad8aaa2da13d771a6629
     name: naisd
@@ -1705,7 +1713,7 @@ entries:
     - https://nais.github.io/charts/naisd-168.0.0.tgz
     version: 168.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478940111Z
+    created: 2018-05-14T07:56:56.764142868Z
     description: NAIS daemon
     digest: 1b2b12fbcdf9653123af834949ac6f3d1221fd5026a04aa87f0683ba649f7028
     name: naisd
@@ -1713,7 +1721,7 @@ entries:
     - https://nais.github.io/charts/naisd-167.0.0.tgz
     version: 167.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478786138Z
+    created: 2018-05-14T07:56:56.763985509Z
     description: NAIS daemon
     digest: 115b70477d30088472a7fde96bdc2efcb4fd1025e5819aeb8482f210c0ae8c91
     name: naisd
@@ -1721,7 +1729,7 @@ entries:
     - https://nais.github.io/charts/naisd-166.0.0.tgz
     version: 166.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478614706Z
+    created: 2018-05-14T07:56:56.763834401Z
     description: NAIS daemon
     digest: 003da8d524155e474af7ba1635b3233b8ae47d011006769e9e0ea415bd4268dc
     name: naisd
@@ -1729,7 +1737,7 @@ entries:
     - https://nais.github.io/charts/naisd-165.0.0.tgz
     version: 165.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478456253Z
+    created: 2018-05-14T07:56:56.763585408Z
     description: NAIS daemon
     digest: 47274a10865bd1a48792d638b38eed4debcc6237cca57cb315d89bc9bb756590
     name: naisd
@@ -1737,7 +1745,7 @@ entries:
     - https://nais.github.io/charts/naisd-164.0.0.tgz
     version: 164.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478291605Z
+    created: 2018-05-14T07:56:56.763343856Z
     description: NAIS daemon
     digest: 80cb6e5e541fd993f2b88b0d35d924cbdca52392080959ac8ca8db152029c392
     name: naisd
@@ -1745,7 +1753,7 @@ entries:
     - https://nais.github.io/charts/naisd-163.0.0.tgz
     version: 163.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.478126829Z
+    created: 2018-05-14T07:56:56.763091781Z
     description: NAIS daemon
     digest: ce5f0bb873a8a3ec4050edf9f312715e7fbe3b8b485f16189265f20863df9690
     name: naisd
@@ -1753,7 +1761,7 @@ entries:
     - https://nais.github.io/charts/naisd-162.0.0.tgz
     version: 162.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.477940895Z
+    created: 2018-05-14T07:56:56.762844156Z
     description: NAIS daemon
     digest: 3bd44d01d0f089e8e13cd0b2c7d771bd08dfe6f58302438d25e7931550ad8889
     name: naisd
@@ -1761,7 +1769,7 @@ entries:
     - https://nais.github.io/charts/naisd-161.0.0.tgz
     version: 161.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.477729538Z
+    created: 2018-05-14T07:56:56.762561128Z
     description: NAIS daemon
     digest: aa8dbe293126694af66b1710f735ae63fe540123d25aa82c09dc46c8feaf166d
     name: naisd
@@ -1769,7 +1777,7 @@ entries:
     - https://nais.github.io/charts/naisd-160.0.0.tgz
     version: 160.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.477496084Z
+    created: 2018-05-14T07:56:56.762411091Z
     description: NAIS daemon
     digest: f57fe0a262c2f16847b0f3d1700e1da317e0d27c7617cf0a979b48c5eb11064b
     name: naisd
@@ -1777,7 +1785,7 @@ entries:
     - https://nais.github.io/charts/naisd-159.0.0.tgz
     version: 159.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.477243265Z
+    created: 2018-05-14T07:56:56.76225893Z
     description: NAIS daemon
     digest: 0c6fca566f05ed2ddb809bfd70734f76fe25a34445092d7b5dce2a637e62b932
     name: naisd
@@ -1785,7 +1793,7 @@ entries:
     - https://nais.github.io/charts/naisd-158.0.0.tgz
     version: 158.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.476980855Z
+    created: 2018-05-14T07:56:56.762078254Z
     description: NAIS daemon
     digest: 55b509bc4c81d6f31b40bb3f3d5d2994bef7b1b59e190f56366457c34c6209ef
     name: naisd
@@ -1793,7 +1801,7 @@ entries:
     - https://nais.github.io/charts/naisd-157.0.0.tgz
     version: 157.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.476452038Z
+    created: 2018-05-14T07:56:56.761753045Z
     description: NAIS daemon
     digest: 7baa8c4dec2b850678b815638df673899bdd617a919e0669b3e09a09d018efce
     name: naisd
@@ -1801,7 +1809,7 @@ entries:
     - https://nais.github.io/charts/naisd-156.0.0.tgz
     version: 156.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.475897421Z
+    created: 2018-05-14T07:56:56.761325931Z
     description: NAIS daemon
     digest: 575e1310a91deb80b7e958f9d6e3f4114871147f6ce153e70809d129e98a900f
     name: naisd
@@ -1809,7 +1817,7 @@ entries:
     - https://nais.github.io/charts/naisd-155.0.0.tgz
     version: 155.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.475480163Z
+    created: 2018-05-14T07:56:56.760902088Z
     description: NAIS daemon
     digest: c70a8dc9ad472c68c5f687b683410d0b76559ea2cf32135759ced77dfa41576d
     name: naisd
@@ -1817,7 +1825,7 @@ entries:
     - https://nais.github.io/charts/naisd-154.0.0.tgz
     version: 154.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.474996908Z
+    created: 2018-05-14T07:56:56.76036144Z
     description: NAIS daemon
     digest: 2b3df9157e0aa2f26a1e488ca4812de1120e113544401fb2ef197db83eddf7a9
     name: naisd
@@ -1825,7 +1833,7 @@ entries:
     - https://nais.github.io/charts/naisd-153.0.0.tgz
     version: 153.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.474594978Z
+    created: 2018-05-14T07:56:56.7598426Z
     description: NAIS daemon
     digest: 58745bee6fce58c58edd81db0e80cb846ff3fdac376d375cba6def36d1bcf3fd
     name: naisd
@@ -1833,7 +1841,7 @@ entries:
     - https://nais.github.io/charts/naisd-152.0.0.tgz
     version: 152.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.474190624Z
+    created: 2018-05-14T07:56:56.759426408Z
     description: NAIS daemon
     digest: 6c036b1c6fa06b1f3c37e46a8e0894b576c8ba0b8e283c6ed4c1ffe9db285196
     name: naisd
@@ -1841,7 +1849,7 @@ entries:
     - https://nais.github.io/charts/naisd-151.0.0.tgz
     version: 151.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.473785643Z
+    created: 2018-05-14T07:56:56.758923164Z
     description: NAIS daemon
     digest: bbe82933bc220e9e4929deff607bb5e3fef1686cd464eb9943091b8e741463a6
     name: naisd
@@ -1849,7 +1857,7 @@ entries:
     - https://nais.github.io/charts/naisd-150.0.0.tgz
     version: 150.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.473303593Z
+    created: 2018-05-14T07:56:56.758504237Z
     description: NAIS daemon
     digest: bf06e5cdc7fd26912f6a6856de75ce6c6a1e9d172a2c3680039c4398121bce16
     name: naisd
@@ -1857,7 +1865,7 @@ entries:
     - https://nais.github.io/charts/naisd-149.0.0.tgz
     version: 149.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.472865598Z
+    created: 2018-05-14T07:56:56.758094384Z
     description: NAIS daemon
     digest: f0a907ec5b5d733d2fbe0b7225bd8ec7941c66ca1f7807476c85c27cec38f604
     name: naisd
@@ -1865,7 +1873,7 @@ entries:
     - https://nais.github.io/charts/naisd-148.0.0.tgz
     version: 148.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.472205731Z
+    created: 2018-05-14T07:56:56.757730351Z
     description: NAIS daemon
     digest: afede078ddfc89d2eb65456230378a025efec2f7245dbdb6b1a80a5b950830c1
     name: naisd
@@ -1873,7 +1881,7 @@ entries:
     - https://nais.github.io/charts/naisd-147.0.0.tgz
     version: 147.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.471777066Z
+    created: 2018-05-14T07:56:56.757354316Z
     description: NAIS daemon
     digest: b78a4cf2f3dbf97ca3d498fea134740232358a9e05efed51c37a40ad726f4b70
     name: naisd
@@ -1881,7 +1889,7 @@ entries:
     - https://nais.github.io/charts/naisd-146.0.0.tgz
     version: 146.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.471335016Z
+    created: 2018-05-14T07:56:56.756906379Z
     description: NAIS daemon
     digest: a90671123489c542faf4ce9824f83f66f02cd6531ffbeab88affc9e5b3a12bc5
     name: naisd
@@ -1889,7 +1897,7 @@ entries:
     - https://nais.github.io/charts/naisd-145.0.0.tgz
     version: 145.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.470702612Z
+    created: 2018-05-14T07:56:56.756199375Z
     description: NAIS daemon
     digest: e6bf256096fce4a1eab5f1e1cb4f07d08ad8ce5a2006b1f971faff9c93719b5e
     name: naisd
@@ -1897,7 +1905,7 @@ entries:
     - https://nais.github.io/charts/naisd-144.0.0.tgz
     version: 144.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.469601109Z
+    created: 2018-05-14T07:56:56.756019133Z
     description: NAIS daemon
     digest: b32395a6d0faad3dde262e2bf2353765f321861a71058e8b5ae5ded4d95a67a7
     name: naisd
@@ -1905,7 +1913,7 @@ entries:
     - https://nais.github.io/charts/naisd-143.0.0.tgz
     version: 143.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.46932965Z
+    created: 2018-05-14T07:56:56.755833461Z
     description: NAIS daemon
     digest: 2d2f23430c4881d6038cde506ec1b477300ca64769cdf29d9525ccc35a6f247d
     name: naisd
@@ -1913,7 +1921,7 @@ entries:
     - https://nais.github.io/charts/naisd-142.0.0.tgz
     version: 142.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.468985273Z
+    created: 2018-05-14T07:56:56.755686735Z
     description: NAIS daemon
     digest: 714b13e9803d9fb811bb6ebcf3ecca3d9427a8d0b872f3798b6e698743879f84
     name: naisd
@@ -1921,7 +1929,7 @@ entries:
     - https://nais.github.io/charts/naisd-141.0.0.tgz
     version: 141.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.468755943Z
+    created: 2018-05-14T07:56:56.755528436Z
     description: NAIS daemon
     digest: b158952c9610a11b3ab421725b6259959cf17b5a8b03c759c67c31827ca87a7e
     name: naisd
@@ -1929,7 +1937,7 @@ entries:
     - https://nais.github.io/charts/naisd-140.0.0.tgz
     version: 140.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.468561607Z
+    created: 2018-05-14T07:56:56.755378851Z
     description: NAIS daemon
     digest: e85e0442dfd78ba12d4e2336163c7f34b126bcc9935949ea25fe749490f8f2dd
     name: naisd
@@ -1937,7 +1945,7 @@ entries:
     - https://nais.github.io/charts/naisd-139.0.0.tgz
     version: 139.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.468242528Z
+    created: 2018-05-14T07:56:56.755221983Z
     description: NAIS daemon
     digest: 462b7d56dcd2a0e7d8ab3534e088709b3564beb345c1c3df642d65ac5ceea413
     name: naisd
@@ -1945,7 +1953,7 @@ entries:
     - https://nais.github.io/charts/naisd-138.0.0.tgz
     version: 138.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.468005127Z
+    created: 2018-05-14T07:56:56.75505598Z
     description: NAIS daemon
     digest: dc85bdf1ce7612c30cc1c0d9f1a87c160475d6a1e8e0ded92d931c34bb036977
     name: naisd
@@ -1953,7 +1961,7 @@ entries:
     - https://nais.github.io/charts/naisd-137.0.0.tgz
     version: 137.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.467782429Z
+    created: 2018-05-14T07:56:56.75488202Z
     description: NAIS daemon
     digest: 9f570ae0bcf0ea53ac9664139aa66ab95d97c6b83fc187e26efe9c310a491e45
     name: naisd
@@ -1961,7 +1969,7 @@ entries:
     - https://nais.github.io/charts/naisd-136.0.0.tgz
     version: 136.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.467568869Z
+    created: 2018-05-14T07:56:56.754662216Z
     description: NAIS daemon
     digest: 79858d9bb77f34563571e9b55dd6dd454fa5b33d6d79ca232e2ef9704eeaa5a0
     name: naisd
@@ -1969,7 +1977,7 @@ entries:
     - https://nais.github.io/charts/naisd-135.0.0.tgz
     version: 135.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.467302111Z
+    created: 2018-05-14T07:56:56.754492362Z
     description: NAIS daemon
     digest: 412db59712d44693339fbc647b3a66bccfac41c6a9d4f71671e4f798c0f07d5f
     name: naisd
@@ -1977,7 +1985,7 @@ entries:
     - https://nais.github.io/charts/naisd-134.0.0.tgz
     version: 134.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.46709825Z
+    created: 2018-05-14T07:56:56.754346497Z
     description: NAIS daemon
     digest: 1ad6764efd602566071664a536e75df9991f03dc2088be5c4b0c3e4e92f5c18a
     name: naisd
@@ -1985,7 +1993,7 @@ entries:
     - https://nais.github.io/charts/naisd-133.0.0.tgz
     version: 133.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.466930192Z
+    created: 2018-05-14T07:56:56.754197223Z
     description: NAIS daemon
     digest: 3c3aa56d58145148dc569b429b0f615693c505dd1584a908e9475074b578cb3e
     name: naisd
@@ -1993,7 +2001,7 @@ entries:
     - https://nais.github.io/charts/naisd-132.0.0.tgz
     version: 132.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.466762464Z
+    created: 2018-05-14T07:56:56.754040612Z
     description: NAIS daemon
     digest: 4fdbf1b64f1fee2f34ba21ad1f2016e45fcf49a86455cd8097caccc07c262c45
     name: naisd
@@ -2001,7 +2009,7 @@ entries:
     - https://nais.github.io/charts/naisd-131.0.0.tgz
     version: 131.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.466589349Z
+    created: 2018-05-14T07:56:56.753899316Z
     description: NAIS daemon
     digest: 6e7b904ddec26b638fb440a4aa1052ade3af039c0d189884739c1dc19d3068b5
     name: naisd
@@ -2009,7 +2017,7 @@ entries:
     - https://nais.github.io/charts/naisd-130.0.0.tgz
     version: 130.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.466405182Z
+    created: 2018-05-14T07:56:56.753756631Z
     description: NAIS daemon
     digest: fd55392e87101d92b76413dc0926d23ff718138a3d8b2c06ea589f08be6ad69f
     name: naisd
@@ -2017,7 +2025,7 @@ entries:
     - https://nais.github.io/charts/naisd-129.0.0.tgz
     version: 129.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.466219705Z
+    created: 2018-05-14T07:56:56.753608098Z
     description: NAIS daemon
     digest: b641e80b5811fdae405db2edd29aeef9c33f355ec5a934d382c2da58666c8015
     name: naisd
@@ -2025,7 +2033,7 @@ entries:
     - https://nais.github.io/charts/naisd-128.0.0.tgz
     version: 128.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465992748Z
+    created: 2018-05-14T07:56:56.753452442Z
     description: NAIS daemon
     digest: 10bfe117e36d3c7299823886407bcad75598cab881d2f54f80b7ff33c9c0be34
     name: naisd
@@ -2033,7 +2041,7 @@ entries:
     - https://nais.github.io/charts/naisd-127.0.0.tgz
     version: 127.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465821772Z
+    created: 2018-05-14T07:56:56.753308462Z
     description: NAIS daemon
     digest: 67f5415c8d99d67dc98758930a43a6ed375cbee87096cf8899822aab5d07dbbc
     name: naisd
@@ -2041,7 +2049,7 @@ entries:
     - https://nais.github.io/charts/naisd-126.0.0.tgz
     version: 126.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465638583Z
+    created: 2018-05-14T07:56:56.753146Z
     description: NAIS daemon
     digest: 50ed6c8c57ec79d943a9d9215b4723239bb0cb1a4ae95ac9966e6a60f1b8175d
     name: naisd
@@ -2049,7 +2057,7 @@ entries:
     - https://nais.github.io/charts/naisd-125.0.0.tgz
     version: 125.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465428017Z
+    created: 2018-05-14T07:56:56.752972875Z
     description: NAIS daemon
     digest: ca2a0370287ff352ad76e6430bd5d8cad2884171bccd10a9a235aa27dc410cbf
     name: naisd
@@ -2057,7 +2065,7 @@ entries:
     - https://nais.github.io/charts/naisd-124.0.0.tgz
     version: 124.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465255722Z
+    created: 2018-05-14T07:56:56.75281245Z
     description: NAIS daemon
     digest: 625b0ba9eaf5d981b89932300fd86f94d98ce0d8c0cc8001082911fb978bcc1d
     name: naisd
@@ -2065,7 +2073,7 @@ entries:
     - https://nais.github.io/charts/naisd-123.0.0.tgz
     version: 123.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.465064951Z
+    created: 2018-05-14T07:56:56.752665543Z
     description: NAIS daemon
     digest: 59c473a203f6ecead62bc758bfe4934887f97419952b870303fbd102d7294566
     name: naisd
@@ -2073,7 +2081,7 @@ entries:
     - https://nais.github.io/charts/naisd-122.0.0.tgz
     version: 122.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.464895368Z
+    created: 2018-05-14T07:56:56.75252111Z
     description: NAIS daemon
     digest: 5f0b716aa941348b246a65bc05465e6b2d4eb9b715690c7016700c58afc94907
     name: naisd
@@ -2081,7 +2089,7 @@ entries:
     - https://nais.github.io/charts/naisd-121.0.0.tgz
     version: 121.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.464714793Z
+    created: 2018-05-14T07:56:56.752366899Z
     description: NAIS daemon
     digest: a918a1ceb593f3bde9fbde6bae4d0dd542e171cb9d6e5fb5190256208b7eebe9
     name: naisd
@@ -2089,7 +2097,7 @@ entries:
     - https://nais.github.io/charts/naisd-120.0.0.tgz
     version: 120.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.46450975Z
+    created: 2018-05-14T07:56:56.752221084Z
     description: NAIS daemon
     digest: a6ae0b5d49f090f1081bf7f1cf17a25503d037e8074794f934e07bb3ca50eb00
     name: naisd
@@ -2097,7 +2105,7 @@ entries:
     - https://nais.github.io/charts/naisd-119.0.0.tgz
     version: 119.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.464230847Z
+    created: 2018-05-14T07:56:56.752063627Z
     description: NAIS daemon
     digest: 2d00f1ff73f6e5d387e8481a17f06d60db931ac3ecee95a9c09c8652893a7c12
     name: naisd
@@ -2105,7 +2113,7 @@ entries:
     - https://nais.github.io/charts/naisd-118.0.0.tgz
     version: 118.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.464038764Z
+    created: 2018-05-14T07:56:56.751902162Z
     description: NAIS daemon
     digest: d9c6c02b890abf1394cf70de207014cc18d583b010e2985e994a36774cc69de9
     name: naisd
@@ -2113,7 +2121,7 @@ entries:
     - https://nais.github.io/charts/naisd-117.0.0.tgz
     version: 117.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.46386829Z
+    created: 2018-05-14T07:56:56.75175426Z
     description: NAIS daemon
     digest: 8d685c960cb5eb82e80d78006ad32528db84476887c95421dfe025e946d21058
     name: naisd
@@ -2121,7 +2129,7 @@ entries:
     - https://nais.github.io/charts/naisd-116.0.0.tgz
     version: 116.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.463679071Z
+    created: 2018-05-14T07:56:56.751606446Z
     description: NAIS daemon
     digest: 253a48a8ca911fb2c35257c747f4af7ba0ba3916564b47073bb5ba23c36f8d4d
     name: naisd
@@ -2129,7 +2137,7 @@ entries:
     - https://nais.github.io/charts/naisd-115.0.0.tgz
     version: 115.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.463453614Z
+    created: 2018-05-14T07:56:56.751457251Z
     description: NAIS daemon
     digest: 938d23ecfa0a681163c4ac0aaace2b8dffec167a135eb9fa23df72973bcf299d
     name: naisd
@@ -2137,7 +2145,7 @@ entries:
     - https://nais.github.io/charts/naisd-114.0.0.tgz
     version: 114.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.463282659Z
+    created: 2018-05-14T07:56:56.751309392Z
     description: NAIS daemon
     digest: 1931a1a07ac221bafbea2f33dfef0ebb04519cdc81bb0246391f4a3cd92cbbd9
     name: naisd
@@ -2145,7 +2153,7 @@ entries:
     - https://nais.github.io/charts/naisd-113.0.0.tgz
     version: 113.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.463068759Z
+    created: 2018-05-14T07:56:56.751154418Z
     description: NAIS daemon
     digest: 7f884baad0551bf9b598479a8fece76c2929816daec513f2ee068615f4d0df73
     name: naisd
@@ -2153,7 +2161,7 @@ entries:
     - https://nais.github.io/charts/naisd-112.0.0.tgz
     version: 112.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.462699994Z
+    created: 2018-05-14T07:56:56.750934746Z
     description: NAIS daemon
     digest: 290206d5abb2b3f0a7b9c16b44108b541f86e4d2b2f7e7e32aec0eeba754af51
     name: naisd
@@ -2161,7 +2169,7 @@ entries:
     - https://nais.github.io/charts/naisd-111.0.0.tgz
     version: 111.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.462099992Z
+    created: 2018-05-14T07:56:56.75061373Z
     description: NAIS daemon
     digest: c2e73b46c3cdc341920957a30a0da0960835ee7ef95a9b91c073617f77193e5f
     name: naisd
@@ -2169,7 +2177,7 @@ entries:
     - https://nais.github.io/charts/naisd-110.0.0.tgz
     version: 110.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.46157852Z
+    created: 2018-05-14T07:56:56.75002631Z
     description: NAIS daemon
     digest: 0d1ee5008b988c193f922e0c2d20669137755d4ddee10b759969f2fa30c162be
     name: naisd
@@ -2177,7 +2185,7 @@ entries:
     - https://nais.github.io/charts/naisd-109.0.0.tgz
     version: 109.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.460967446Z
+    created: 2018-05-14T07:56:56.749612754Z
     description: NAIS daemon
     digest: 544e542b074edafe8a9277ea0afab374d3e983b54d56209dd1fc8e05008b27ae
     name: naisd
@@ -2185,7 +2193,7 @@ entries:
     - https://nais.github.io/charts/naisd-108.0.0.tgz
     version: 108.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.460274546Z
+    created: 2018-05-14T07:56:56.749084733Z
     description: NAIS daemon
     digest: bd1c159acabc779bc4816210beee0ac093e3477456bd9f898eaf5563c2fa4d1a
     name: naisd
@@ -2193,7 +2201,7 @@ entries:
     - https://nais.github.io/charts/naisd-107.0.0.tgz
     version: 107.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.459648538Z
+    created: 2018-05-14T07:56:56.74859389Z
     description: NAIS daemon
     digest: 8f8c40ce6701010de595a385ba975c822e5de7bf49f33011e2adbb69de410828
     name: naisd
@@ -2201,7 +2209,7 @@ entries:
     - https://nais.github.io/charts/naisd-106.0.0.tgz
     version: 106.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.459188385Z
+    created: 2018-05-14T07:56:56.748069311Z
     description: NAIS daemon
     digest: 26e13cb5e8e7e4ad6def2fb2d87a288899d267d4b40434e041361cc80f2c8630
     name: naisd
@@ -2209,7 +2217,7 @@ entries:
     - https://nais.github.io/charts/naisd-105.0.0.tgz
     version: 105.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.458751282Z
+    created: 2018-05-14T07:56:56.74762322Z
     description: NAIS daemon
     digest: f851785cb2a576b8ebc4317717811ac57048465379d1a32e9f40e94d559503ea
     name: naisd
@@ -2217,7 +2225,7 @@ entries:
     - https://nais.github.io/charts/naisd-104.0.0.tgz
     version: 104.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.458330555Z
+    created: 2018-05-14T07:56:56.747237977Z
     description: NAIS daemon
     digest: 42ca56f6b33abd4409d6ae608cb60510d1ca99b92dcf794d7ded0ff767022a76
     name: naisd
@@ -2225,7 +2233,7 @@ entries:
     - https://nais.github.io/charts/naisd-103.0.0.tgz
     version: 103.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.457656468Z
+    created: 2018-05-14T07:56:56.746824366Z
     description: NAIS daemon
     digest: b9b8411d5aa204e48093b1c27085fefa952a456b09d6c688012093185fd0435f
     name: naisd
@@ -2233,7 +2241,7 @@ entries:
     - https://nais.github.io/charts/naisd-102.0.0.tgz
     version: 102.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.457071181Z
+    created: 2018-05-14T07:56:56.74640421Z
     description: NAIS daemon
     digest: a772fc82cfaef15fdd216e606b2a6d0eec24906f25646ab85fbaeea92c3192ce
     name: naisd
@@ -2241,7 +2249,7 @@ entries:
     - https://nais.github.io/charts/naisd-101.0.0.tgz
     version: 101.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.456484801Z
+    created: 2018-05-14T07:56:56.745977259Z
     description: NAIS daemon
     digest: 382c5bbc3ec7e68865d0da35bd9fb59c0fe5f26547800ae074205f4e91ce0528
     name: naisd
@@ -2249,7 +2257,7 @@ entries:
     - https://nais.github.io/charts/naisd-100.0.0.tgz
     version: 100.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.521316917Z
+    created: 2018-05-14T07:56:56.801911928Z
     description: NAIS daemon
     digest: c5b203bae573870c33dab4af3596e6a09de58f674cb42fe937635786d6299541
     name: naisd
@@ -2257,7 +2265,7 @@ entries:
     - https://nais.github.io/charts/naisd-99.0.0.tgz
     version: 99.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.521131541Z
+    created: 2018-05-14T07:56:56.801762853Z
     description: NAIS daemon
     digest: 87d00ff1df45bfd746c35eac0ef8b5c213151d8edd739ea098b7ba5239b2dd8e
     name: naisd
@@ -2265,7 +2273,7 @@ entries:
     - https://nais.github.io/charts/naisd-98.0.0.tgz
     version: 98.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.520939065Z
+    created: 2018-05-14T07:56:56.80161536Z
     description: NAIS daemon
     digest: 01a4f9069ad9df6f2801bfad736d44d596f2b9779488d80f392b9162031a7709
     name: naisd
@@ -2273,7 +2281,7 @@ entries:
     - https://nais.github.io/charts/naisd-97.0.0.tgz
     version: 97.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.520767429Z
+    created: 2018-05-14T07:56:56.801473798Z
     description: NAIS daemon
     digest: a4f907c943423791979caf6336d1ade230734f82bc3a558ccdf4a5ae2feceeea
     name: naisd
@@ -2281,7 +2289,7 @@ entries:
     - https://nais.github.io/charts/naisd-96.0.0.tgz
     version: 96.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.520571198Z
+    created: 2018-05-14T07:56:56.801326631Z
     description: NAIS daemon
     digest: bdfb62605e48b35efa071c6396fc1e4755379d59f0cc55bf461075303d0aa3f6
     name: naisd
@@ -2289,7 +2297,7 @@ entries:
     - https://nais.github.io/charts/naisd-95.0.0.tgz
     version: 95.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.520301918Z
+    created: 2018-05-14T07:56:56.801181334Z
     description: NAIS daemon
     digest: 89651ee3a23702c497e6722a3dfc16875a53f9ae87cccff5264d42b4e9cda97f
     name: naisd
@@ -2297,7 +2305,7 @@ entries:
     - https://nais.github.io/charts/naisd-94.0.0.tgz
     version: 94.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.520087123Z
+    created: 2018-05-14T07:56:56.801011338Z
     description: NAIS daemon
     digest: 22c33bedd02c3ffd6857035dc0d1eeb2e625ba49e891076322a99e4db1577a33
     name: naisd
@@ -2305,7 +2313,7 @@ entries:
     - https://nais.github.io/charts/naisd-93.0.0.tgz
     version: 93.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.519886411Z
+    created: 2018-05-14T07:56:56.80085811Z
     description: NAIS daemon
     digest: 4a168c465ac5402733c38ba22bb2a067fe985dfc3adf6a2f136f3b7189b61497
     name: naisd
@@ -2313,7 +2321,7 @@ entries:
     - https://nais.github.io/charts/naisd-92.0.0.tgz
     version: 92.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.519701405Z
+    created: 2018-05-14T07:56:56.800712966Z
     description: NAIS daemon
     digest: 8e0635c4f5e30359e91023f45442663fb6d1658b809312ca26290cc6c82e7ae7
     name: naisd
@@ -2321,7 +2329,7 @@ entries:
     - https://nais.github.io/charts/naisd-91.0.0.tgz
     version: 91.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.519479542Z
+    created: 2018-05-14T07:56:56.800563113Z
     description: NAIS daemon
     digest: 21f688f007ea4757ce1c63b77c555ec12d6c2f30042fe3587b4fc542763d4620
     name: naisd
@@ -2329,7 +2337,7 @@ entries:
     - https://nais.github.io/charts/naisd-90.0.0.tgz
     version: 90.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.51922941Z
+    created: 2018-05-14T07:56:56.800399161Z
     description: NAIS daemon
     digest: e9eeb9fcda4e129d2d4c6a40546c67df83317565ff30a3b079e363da3ee172bd
     name: naisd
@@ -2337,7 +2345,7 @@ entries:
     - https://nais.github.io/charts/naisd-89.0.0.tgz
     version: 89.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.519003474Z
+    created: 2018-05-14T07:56:56.800251146Z
     description: NAIS daemon
     digest: dc67323d8b0ec493220db8a18516f644f3bffc26495b3a8d1b0a0ff8d19d6277
     name: naisd
@@ -2345,7 +2353,7 @@ entries:
     - https://nais.github.io/charts/naisd-88.0.0.tgz
     version: 88.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.518775172Z
+    created: 2018-05-14T07:56:56.800099044Z
     description: NAIS daemon
     digest: e5a6223c2596067313eb7cc88446ec0ea5612c363f08d4ff87a01f08bff91dc6
     name: naisd
@@ -2353,7 +2361,7 @@ entries:
     - https://nais.github.io/charts/naisd-87.0.0.tgz
     version: 87.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.518611293Z
+    created: 2018-05-14T07:56:56.79994774Z
     description: NAIS daemon
     digest: 40ee4625850b1e461a956dbc3101b80b81e0c1651ca25e46d7a8a95a59f3d572
     name: naisd
@@ -2361,7 +2369,7 @@ entries:
     - https://nais.github.io/charts/naisd-86.0.0.tgz
     version: 86.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.518449522Z
+    created: 2018-05-14T07:56:56.799799092Z
     description: NAIS daemon
     digest: 56703b33c1986816d449848693d46ecd9c7b23e29ae0141f439992b1ae545f67
     name: naisd
@@ -2369,7 +2377,7 @@ entries:
     - https://nais.github.io/charts/naisd-85.0.0.tgz
     version: 85.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.518293449Z
+    created: 2018-05-14T07:56:56.79960893Z
     description: NAIS daemon
     digest: 3eafcde640037614759aeb3e875e0fa12dbca45366ee8dbdae40834aa50254cc
     name: naisd
@@ -2377,7 +2385,7 @@ entries:
     - https://nais.github.io/charts/naisd-84.0.0.tgz
     version: 84.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.518111706Z
+    created: 2018-05-14T07:56:56.799463532Z
     description: NAIS daemon
     digest: 3a2074a48e8934f10888a18d5b48270c9ca1a963392dd89024236a6b15a8db90
     name: naisd
@@ -2385,7 +2393,7 @@ entries:
     - https://nais.github.io/charts/naisd-83.0.0.tgz
     version: 83.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.517946136Z
+    created: 2018-05-14T07:56:56.7993187Z
     description: NAIS daemon
     digest: 7465c86fae6b873ba865d6512abb96e8c332e3b79fecb035e7c92ab393683283
     name: naisd
@@ -2393,7 +2401,7 @@ entries:
     - https://nais.github.io/charts/naisd-82.0.0.tgz
     version: 82.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.51778832Z
+    created: 2018-05-14T07:56:56.799172616Z
     description: NAIS daemon
     digest: b8abba2194575181de2619857cf1b54df29025f784f476485db027593cdd30c8
     name: naisd
@@ -2401,7 +2409,7 @@ entries:
     - https://nais.github.io/charts/naisd-81.0.0.tgz
     version: 81.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.517631408Z
+    created: 2018-05-14T07:56:56.799011564Z
     description: NAIS daemon
     digest: eb305a449106e65be0515cbda4e303eecf382149a93f9e73a74693698330bf2f
     name: naisd
@@ -2409,7 +2417,7 @@ entries:
     - https://nais.github.io/charts/naisd-80.0.0.tgz
     version: 80.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.51747969Z
+    created: 2018-05-14T07:56:56.798865589Z
     description: NAIS daemon
     digest: e53f201b49c6782ebeadac74b4b7940e02625bc21dccc7132247336f5eadfea7
     name: naisd
@@ -2417,7 +2425,7 @@ entries:
     - https://nais.github.io/charts/naisd-79.0.0.tgz
     version: 79.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.517319886Z
+    created: 2018-05-14T07:56:56.798706424Z
     description: NAIS daemon
     digest: 8e95b7c75fb94dce13bb71c646f7a99e956d8c97ba85d1707ebca0a406352a46
     name: naisd
@@ -2425,7 +2433,7 @@ entries:
     - https://nais.github.io/charts/naisd-78.0.0.tgz
     version: 78.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.517163754Z
+    created: 2018-05-14T07:56:56.798535031Z
     description: NAIS daemon
     digest: 7cdd6aa6b4f47fb73b9077f83199a45e51f9129ce9080315b2f5be8d9bb83996
     name: naisd
@@ -2433,7 +2441,7 @@ entries:
     - https://nais.github.io/charts/naisd-77.0.0.tgz
     version: 77.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.517000822Z
+    created: 2018-05-14T07:56:56.798390602Z
     description: NAIS daemon
     digest: 4770abf4933fddfbd3fa87c914cb2a5447de3d4464daecbaebb0009ec9e36ae4
     name: naisd
@@ -2441,7 +2449,7 @@ entries:
     - https://nais.github.io/charts/naisd-76.0.0.tgz
     version: 76.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.516841218Z
+    created: 2018-05-14T07:56:56.798247321Z
     description: NAIS daemon
     digest: 9798d381cf7a089331e7a2cc9bed0345ebcc51fcd5ffc2f749a6062ce636da3c
     name: naisd
@@ -2449,7 +2457,7 @@ entries:
     - https://nais.github.io/charts/naisd-75.0.0.tgz
     version: 75.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.516663668Z
+    created: 2018-05-14T07:56:56.798093386Z
     description: NAIS daemon
     digest: d1dec7f9ca7c3ba7d69a15a4df3d6fe38902ae89d89ea1239ea6662adbcc1abe
     name: naisd
@@ -2457,7 +2465,7 @@ entries:
     - https://nais.github.io/charts/naisd-74.0.0.tgz
     version: 74.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.51634825Z
+    created: 2018-05-14T07:56:56.797952806Z
     description: NAIS daemon
     digest: 3c2fab817c7bc9cc60ef011dd4570afa1e7c98b7c9673f38d03b29e9f04ed4b4
     name: naisd
@@ -2465,7 +2473,7 @@ entries:
     - https://nais.github.io/charts/naisd-73.0.0.tgz
     version: 73.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.516074078Z
+    created: 2018-05-14T07:56:56.797802752Z
     description: NAIS daemon
     digest: ece52da0473d9950d62496d18ea610423f1e6ef15c23bcb1c0a4d2e973d0fc70
     name: naisd
@@ -2473,7 +2481,7 @@ entries:
     - https://nais.github.io/charts/naisd-72.0.0.tgz
     version: 72.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.515476464Z
+    created: 2018-05-14T07:56:56.797606849Z
     description: NAIS daemon
     digest: 63ac9d649074b6dd1c7f0a7dc9875d5af55e2d8ae9ac6eadbddd195ea4918bc7
     name: naisd
@@ -2481,7 +2489,7 @@ entries:
     - https://nais.github.io/charts/naisd-71.0.0.tgz
     version: 71.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.515009435Z
+    created: 2018-05-14T07:56:56.797338863Z
     description: NAIS daemon
     digest: 6d251027864df043652dc032bb31598cf78013284ccd3d177c03e10a89125171
     name: naisd
@@ -2489,7 +2497,7 @@ entries:
     - https://nais.github.io/charts/naisd-70.0.0.tgz
     version: 70.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.514503396Z
+    created: 2018-05-14T07:56:56.796807427Z
     description: NAIS daemon
     digest: 348aae14b402b32b50b94b3dc9c3ef0624350d2430b5d1d3ebf130d6a3bf5a1d
     name: naisd
@@ -2497,7 +2505,7 @@ entries:
     - https://nais.github.io/charts/naisd-69.0.0.tgz
     version: 69.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.514057632Z
+    created: 2018-05-14T07:56:56.796388334Z
     description: NAIS daemon
     digest: 720af2e36d947243ad77ad4f5187efa4d59ee694285f4e5fff73e5ec17c31e35
     name: naisd
@@ -2505,7 +2513,7 @@ entries:
     - https://nais.github.io/charts/naisd-68.0.0.tgz
     version: 68.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.513453609Z
+    created: 2018-05-14T07:56:56.795849979Z
     description: NAIS daemon
     digest: 2ef702c7932fabb36f97d5fd5ca9d600985b4e46436994dc9debf97ba307ef66
     name: naisd
@@ -2513,7 +2521,7 @@ entries:
     - https://nais.github.io/charts/naisd-67.0.0.tgz
     version: 67.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.512993137Z
+    created: 2018-05-14T07:56:56.79537935Z
     description: NAIS daemon
     digest: a25a06a4036e79966f34c340e66cb798784e71b03681e4503b9208a3df698c45
     name: naisd
@@ -2521,7 +2529,7 @@ entries:
     - https://nais.github.io/charts/naisd-66.0.0.tgz
     version: 66.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.512595024Z
+    created: 2018-05-14T07:56:56.794990333Z
     description: NAIS daemon
     digest: 33ab1c71178fc64160454ac37beaaf0cbc28d2ae5c2f79052ede722a6e92e2fd
     name: naisd
@@ -2529,7 +2537,7 @@ entries:
     - https://nais.github.io/charts/naisd-65.0.0.tgz
     version: 65.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.512142175Z
+    created: 2018-05-14T07:56:56.794619433Z
     description: NAIS daemon
     digest: faf1da894516ae25d81918d1cd97a2e3ac57d4e22dad3dc293f5c898a3c89e94
     name: naisd
@@ -2537,7 +2545,7 @@ entries:
     - https://nais.github.io/charts/naisd-64.0.0.tgz
     version: 64.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.511783046Z
+    created: 2018-05-14T07:56:56.79428452Z
     description: NAIS daemon
     digest: 59bc54f525a9c598ef3053060616cd0424f2dad5e3c6a7b5d8809bd44edc2931
     name: naisd
@@ -2545,7 +2553,7 @@ entries:
     - https://nais.github.io/charts/naisd-63.0.0.tgz
     version: 63.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.51129143Z
+    created: 2018-05-14T07:56:56.793941611Z
     description: NAIS daemon
     digest: 226d67f8b264c9b6e696f464f617d64d9251271ec6859e973bdcd6b57a29028a
     name: naisd
@@ -2553,7 +2561,7 @@ entries:
     - https://nais.github.io/charts/naisd-62.0.0.tgz
     version: 62.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.510738135Z
+    created: 2018-05-14T07:56:56.793586685Z
     description: NAIS daemon
     digest: da70c408f517289e765644f6e132cfc2af06400a0a6f90d29bb5db03a6d9cc5a
     name: naisd
@@ -2561,7 +2569,7 @@ entries:
     - https://nais.github.io/charts/naisd-61.0.0.tgz
     version: 61.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.510197865Z
+    created: 2018-05-14T07:56:56.79310811Z
     description: NAIS daemon
     digest: d06bb84aa443f6d56284a996f42008770323492622e5fed4c41cdfd49f325407
     name: naisd
@@ -2569,7 +2577,7 @@ entries:
     - https://nais.github.io/charts/naisd-60.0.0.tgz
     version: 60.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.509542924Z
+    created: 2018-05-14T07:56:56.792252422Z
     description: NAIS daemon
     digest: dde544a2bf6eda750a71a93c3557558c57bdbb8de34fefc2342fd6859ae6e5be
     name: naisd
@@ -2577,7 +2585,7 @@ entries:
     - https://nais.github.io/charts/naisd-59.0.0.tgz
     version: 59.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.509368345Z
+    created: 2018-05-14T07:56:56.792125217Z
     description: NAIS daemon
     digest: 1c98ddbae1f3b5964d7da813761a5d716a977baa0743b45ed6d45c35806947ba
     name: naisd
@@ -2585,7 +2593,7 @@ entries:
     - https://nais.github.io/charts/naisd-58.0.0.tgz
     version: 58.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.509212335Z
+    created: 2018-05-14T07:56:56.791994581Z
     description: NAIS daemon
     digest: aa6eba0f439a810dbe0420beabaf8e2818983539ba5f73733b1c86da987e29bb
     name: naisd
@@ -2593,7 +2601,7 @@ entries:
     - https://nais.github.io/charts/naisd-57.0.0.tgz
     version: 57.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.5090681Z
+    created: 2018-05-14T07:56:56.791870883Z
     description: NAIS daemon
     digest: f7cdf1c0ea8017b1ab2835011398d240233423019b92749a96c8cb94f5530c75
     name: naisd
@@ -2601,7 +2609,7 @@ entries:
     - https://nais.github.io/charts/naisd-56.0.0.tgz
     version: 56.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508924702Z
+    created: 2018-05-14T07:56:56.791736688Z
     description: NAIS daemon
     digest: c302910f48306d451bcf0a29c2f130853c67b624171d50e048b64c9712fc55db
     name: naisd
@@ -2609,7 +2617,7 @@ entries:
     - https://nais.github.io/charts/naisd-55.0.0.tgz
     version: 55.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508778167Z
+    created: 2018-05-14T07:56:56.791604742Z
     description: NAIS daemon
     digest: ed066411cc81f00913592c9f87b131a85a50e6f796adc826d6fe01694799d29b
     name: naisd
@@ -2617,7 +2625,7 @@ entries:
     - https://nais.github.io/charts/naisd-54.0.0.tgz
     version: 54.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508594141Z
+    created: 2018-05-14T07:56:56.791476927Z
     description: NAIS daemon
     digest: 2898a5c71f4b0c30cea9789cc0c9cb57f89f29c67086b788d029444bd544c179
     name: naisd
@@ -2625,7 +2633,7 @@ entries:
     - https://nais.github.io/charts/naisd-53.0.0.tgz
     version: 53.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508415926Z
+    created: 2018-05-14T07:56:56.791347736Z
     description: NAIS daemon
     digest: f51b7f825791094efd9bdacf7ae0c24667f6a2f00b82209b2cc01135b044c1a9
     name: naisd
@@ -2633,7 +2641,7 @@ entries:
     - https://nais.github.io/charts/naisd-52.0.0.tgz
     version: 52.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508225066Z
+    created: 2018-05-14T07:56:56.791215794Z
     description: NAIS daemon
     digest: 3602c111d075f377e75ee7f0b4c264f92852233ca1e36c9a3772cb75c12ab8e7
     name: naisd
@@ -2641,7 +2649,7 @@ entries:
     - https://nais.github.io/charts/naisd-51.0.0.tgz
     version: 51.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.508048917Z
+    created: 2018-05-14T07:56:56.791077983Z
     description: NAIS daemon
     digest: 5f55644444181e82fd0c1c24f73642c572866f0299b55e97f46c950ebc8339ac
     name: naisd
@@ -2649,7 +2657,7 @@ entries:
     - https://nais.github.io/charts/naisd-48.0.0.tgz
     version: 48.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507885322Z
+    created: 2018-05-14T07:56:56.790929755Z
     description: NAIS daemon
     digest: 598ddff1c3764fcb314a60e025870d22ddc0b59094d21cbb7b211e5f7db1ce3c
     name: naisd
@@ -2657,7 +2665,7 @@ entries:
     - https://nais.github.io/charts/naisd-47.0.0.tgz
     version: 47.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507751824Z
+    created: 2018-05-14T07:56:56.790747889Z
     description: NAIS daemon
     digest: d9cb836d362a228d9dc92ad56db5f3c6542246d3e719ee833f2fb377b451c5e3
     name: naisd
@@ -2665,7 +2673,7 @@ entries:
     - https://nais.github.io/charts/naisd-46.0.0.tgz
     version: 46.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507610755Z
+    created: 2018-05-14T07:56:56.790579978Z
     description: NAIS daemon
     digest: 232049e50865efb7f6f09b11ed1c0d8a62b6672a169f7d062a7cdd3625d26e67
     name: naisd
@@ -2673,7 +2681,7 @@ entries:
     - https://nais.github.io/charts/naisd-45.0.0.tgz
     version: 45.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507481439Z
+    created: 2018-05-14T07:56:56.790414646Z
     description: NAIS daemon
     digest: 6ff566b0f9e0dc220473b380955f2a6e32b9c18856bc156307b23837c75d686a
     name: naisd
@@ -2681,7 +2689,7 @@ entries:
     - https://nais.github.io/charts/naisd-44.0.0.tgz
     version: 44.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507348988Z
+    created: 2018-05-14T07:56:56.790284088Z
     description: NAIS daemon
     digest: 11129bdc812e36e30cafd9fadfd552765eef3b000736edd0dda8078050c772e9
     name: naisd
@@ -2689,7 +2697,7 @@ entries:
     - https://nais.github.io/charts/naisd-43.0.0.tgz
     version: 43.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507211302Z
+    created: 2018-05-14T07:56:56.790144513Z
     description: NAIS daemon
     digest: 51e55608c860996e577bcae91c743d2de422d5b624a9816ccae16509caaf6f2d
     name: naisd
@@ -2697,7 +2705,7 @@ entries:
     - https://nais.github.io/charts/naisd-42.0.0.tgz
     version: 42.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.507079737Z
+    created: 2018-05-14T07:56:56.790008501Z
     description: NAIS daemon
     digest: fdb2534043db82965b50586ae4b9702bac2a1f1388444f363774592a22025150
     name: naisd
@@ -2705,7 +2713,7 @@ entries:
     - https://nais.github.io/charts/naisd-41.0.0.tgz
     version: 41.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506951091Z
+    created: 2018-05-14T07:56:56.789871706Z
     description: NAIS daemon
     digest: 00ae5f060d40d814996e443b5f08290588475fc4e3800373095f29824a5443ad
     name: naisd
@@ -2713,7 +2721,7 @@ entries:
     - https://nais.github.io/charts/naisd-40.0.0.tgz
     version: 40.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506817839Z
+    created: 2018-05-14T07:56:56.789735799Z
     description: NAIS daemon
     digest: 73a8de88e44e8d0baebcdef238d7fdf5491dda7da5981d0ea72a95a2b34dcf53
     name: naisd
@@ -2721,7 +2729,7 @@ entries:
     - https://nais.github.io/charts/naisd-39.0.0.tgz
     version: 39.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506681242Z
+    created: 2018-05-14T07:56:56.789599732Z
     description: NAIS daemon
     digest: 01095267775974f4d1ce2d8e5f1094c4dc7c6555f373ea7326f5cf59295fe4a7
     name: naisd
@@ -2729,7 +2737,7 @@ entries:
     - https://nais.github.io/charts/naisd-38.0.0.tgz
     version: 38.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506535032Z
+    created: 2018-05-14T07:56:56.789482741Z
     description: NAIS daemon
     digest: ac90139b4c0e005d75b19e54d3b56b0794731de8f7d948c0c9261e4b978278b8
     name: naisd
@@ -2737,7 +2745,7 @@ entries:
     - https://nais.github.io/charts/naisd-37.0.0.tgz
     version: 37.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506418843Z
+    created: 2018-05-14T07:56:56.789358886Z
     description: NAIS daemon
     digest: 19f50af602deb183bddbaf18ece01ce93fdf389eb15c0f097893e39e72775844
     name: naisd
@@ -2745,7 +2753,7 @@ entries:
     - https://nais.github.io/charts/naisd-36.0.0.tgz
     version: 36.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506296224Z
+    created: 2018-05-14T07:56:56.789248953Z
     description: NAIS daemon
     digest: 644d5d69e0732fcac24d4af725905496a015495a76d0dd38c193f66efdf01f7c
     name: naisd
@@ -2753,7 +2761,7 @@ entries:
     - https://nais.github.io/charts/naisd-32.0.0.tgz
     version: 32.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506181793Z
+    created: 2018-05-14T07:56:56.789137504Z
     description: NAIS daemon
     digest: 661c8de0219fe5bbc8099de165fc78e5aa4f315825fc1d766f203c669ddc381d
     name: naisd
@@ -2761,7 +2769,7 @@ entries:
     - https://nais.github.io/charts/naisd-30.0.0.tgz
     version: 30.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.506063255Z
+    created: 2018-05-14T07:56:56.789014287Z
     description: NAIS daemon
     digest: 4c197ff368a420671d8b442e46834404aaebb6484e21de762409450fba7a8b31
     name: naisd
@@ -2769,7 +2777,7 @@ entries:
     - https://nais.github.io/charts/naisd-29.0.0.tgz
     version: 29.0.0
   naisprom:
-  - created: 2018-05-10T20:40:54.522533304Z
+  - created: 2018-05-14T07:56:56.802900198Z
     description: Fork of stable/prometheus with patches
     digest: 856ee643cfc8da9c7ea4feba318dc56c869ffe90e837319813e4fdd8a42c2811
     engine: gotpl
@@ -2789,7 +2797,7 @@ entries:
     version: 1.0.0
   named:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.542425358Z
+    created: 2018-05-14T07:56:56.820336053Z
     description: NAIS Access Management Extension
     digest: 3ae90deb97253c179da62303771686f03fbef5dc3b0a83c34359f284d65c14cd
     name: named
@@ -2797,7 +2805,7 @@ entries:
     - https://nais.github.io/charts/named-72.0.0.tgz
     version: 72.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.542040394Z
+    created: 2018-05-14T07:56:56.820202003Z
     description: NAIS Access Management Extension
     digest: f9b365f630172d79a794b988d8a4fb765d35bc417de41fcfee8feb84d30a93a7
     name: named
@@ -2805,7 +2813,7 @@ entries:
     - https://nais.github.io/charts/named-71.0.0.tgz
     version: 71.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.541568364Z
+    created: 2018-05-14T07:56:56.820042042Z
     description: NAIS Access Management Extension
     digest: 02c52a87135ab035104d9cbf2970b471de58c56807ce77b0aa8a5c9bfeb1899f
     name: named
@@ -2813,7 +2821,7 @@ entries:
     - https://nais.github.io/charts/named-70.0.0.tgz
     version: 70.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.540614624Z
+    created: 2018-05-14T07:56:56.819615359Z
     description: NAIS Access Management Extension
     digest: 25b423fc20539278609409845848d938f4bcaf9961129af2b624295efd982746
     name: named
@@ -2821,7 +2829,7 @@ entries:
     - https://nais.github.io/charts/named-69.0.0.tgz
     version: 69.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.540219752Z
+    created: 2018-05-14T07:56:56.819229709Z
     description: NAIS Access Management Extension
     digest: df794126c1a60e693dbc3ff9a83aa8de931896c02bc2ee343bc1359f231dc641
     name: named
@@ -2829,7 +2837,7 @@ entries:
     - https://nais.github.io/charts/named-68.0.0.tgz
     version: 68.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.539833266Z
+    created: 2018-05-14T07:56:56.818806225Z
     description: NAIS Access Management Extension
     digest: 9e3c7814c044458d8432e2a326ec26f35929fc87acc2f36ac71a7d916b4321cd
     name: named
@@ -2837,7 +2845,7 @@ entries:
     - https://nais.github.io/charts/named-67.0.0.tgz
     version: 67.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.539508791Z
+    created: 2018-05-14T07:56:56.818291889Z
     description: NAIS Access Management Extension
     digest: bc12cd76fbe0747c916d516dcc4347b10b81ffbfe062688c6691fffc286a5986
     name: named
@@ -2845,7 +2853,7 @@ entries:
     - https://nais.github.io/charts/named-66.0.0.tgz
     version: 66.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.539165613Z
+    created: 2018-05-14T07:56:56.817862908Z
     description: NAIS Access Management Extension
     digest: 9bd7397fa1e9a0153c49b45f28df38d10006f17237bd6e5b63ecefe53e2f6645
     name: named
@@ -2853,7 +2861,7 @@ entries:
     - https://nais.github.io/charts/named-65.0.0.tgz
     version: 65.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.538815337Z
+    created: 2018-05-14T07:56:56.817551579Z
     description: NAIS Access Management Extension
     digest: 702a21f2a3e73626860e08cc7623d7c3a3d35b25a3d9e38402e8deef57a4ca4d
     name: named
@@ -2861,7 +2869,7 @@ entries:
     - https://nais.github.io/charts/named-64.0.0.tgz
     version: 64.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.538482078Z
+    created: 2018-05-14T07:56:56.81723155Z
     description: NAIS Access Management Extension
     digest: 7b2ad7e72ab57b50dee592da4298d68b93a6d0215bdb5042699c0e88aa101363
     name: named
@@ -2869,7 +2877,7 @@ entries:
     - https://nais.github.io/charts/named-63.0.0.tgz
     version: 63.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.538119578Z
+    created: 2018-05-14T07:56:56.816859103Z
     description: NAIS Access Management Extension
     digest: f1c11da3db2b6590ddc420af88cb85adf1c3a109344ebacc75b8f8f165dfc04c
     name: named
@@ -2877,7 +2885,7 @@ entries:
     - https://nais.github.io/charts/named-62.0.0.tgz
     version: 62.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.537784397Z
+    created: 2018-05-14T07:56:56.816524176Z
     description: NAIS Access Management Extension
     digest: 32c0205ed72d17fbbe99ff085dd554b2fecbd167ed5acf09815608557694379f
     name: named
@@ -2885,7 +2893,7 @@ entries:
     - https://nais.github.io/charts/named-61.0.0.tgz
     version: 61.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.537444234Z
+    created: 2018-05-14T07:56:56.816183692Z
     description: NAIS Access Management Extension
     digest: 420f993c5d0adfbac96849519debaf5e1df51fae76742bcdfe0ed84c1f380946
     name: named
@@ -2893,7 +2901,7 @@ entries:
     - https://nais.github.io/charts/named-60.0.0.tgz
     version: 60.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.536242023Z
+    created: 2018-05-14T07:56:56.81550352Z
     description: NAIS Access Management Extension
     digest: 5ea9d0c6035236438040de2c576fa69636049816a7aca89c600ec6a7eaebf42a
     name: named
@@ -2901,7 +2909,7 @@ entries:
     - https://nais.github.io/charts/named-59.0.0.tgz
     version: 59.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.535839773Z
+    created: 2018-05-14T07:56:56.815159252Z
     description: NAIS Access Management Extension
     digest: 29077ab204e50b4f71dfa6fe5ffac84859cedef3a6c0ceb969d7227822ee2199
     name: named
@@ -2909,7 +2917,7 @@ entries:
     - https://nais.github.io/charts/named-58.0.0.tgz
     version: 58.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.5356951Z
+    created: 2018-05-14T07:56:56.814707161Z
     description: NAIS Access Management Extension
     digest: c623cf73aa0a9e9b7edef9a7229b6b4edbecc7614c1d74619096639b1aa87c77
     name: named
@@ -2917,7 +2925,7 @@ entries:
     - https://nais.github.io/charts/named-57.0.0.tgz
     version: 57.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.535443685Z
+    created: 2018-05-14T07:56:56.813911582Z
     description: NAIS Access Management Extension
     digest: 62cadde052f55d71f90b05e8f061863ec3355897cb68ed67ca1f0a07c5a076cf
     name: named
@@ -2925,7 +2933,7 @@ entries:
     - https://nais.github.io/charts/named-56.0.0.tgz
     version: 56.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.535309891Z
+    created: 2018-05-14T07:56:56.813783025Z
     description: NAIS Access Management Extension
     digest: 520c2182783c8907b46641d69f345c21f77a37a1e06880aade492200fb7be4e8
     name: named
@@ -2933,7 +2941,7 @@ entries:
     - https://nais.github.io/charts/named-55.0.0.tgz
     version: 55.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.535171248Z
+    created: 2018-05-14T07:56:56.813651769Z
     description: NAIS Access Management Extension
     digest: d65bf96fc2689447dafa2dbfd6c8ec08e804b537afd18ead825987594c123420
     name: named
@@ -2941,7 +2949,7 @@ entries:
     - https://nais.github.io/charts/named-54.0.0.tgz
     version: 54.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.535026927Z
+    created: 2018-05-14T07:56:56.813511052Z
     description: NAIS Access Management Extension
     digest: 89222383a1bd3b739d30d257135607fbc3766871fa4d724594d27cc72f08a5d5
     name: named
@@ -2949,7 +2957,7 @@ entries:
     - https://nais.github.io/charts/named-53.0.0.tgz
     version: 53.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.534891675Z
+    created: 2018-05-14T07:56:56.813380261Z
     description: NAIS Access Management Extension
     digest: 865b54d2ec696634858614ae73965c18915108e18a2ab5b653d4793dba27653d
     name: named
@@ -2957,7 +2965,7 @@ entries:
     - https://nais.github.io/charts/named-52.0.0.tgz
     version: 52.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.534733996Z
+    created: 2018-05-14T07:56:56.813239942Z
     description: NAIS Access Management Extension
     digest: 37aa5345ce361d520863611156b517b403760c3d35d1a543f1929acf7e114402
     name: named
@@ -2965,7 +2973,7 @@ entries:
     - https://nais.github.io/charts/named-51.0.0.tgz
     version: 51.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.534589538Z
+    created: 2018-05-14T07:56:56.813099447Z
     description: NAIS Access Management Extension
     digest: 3ef8c2fcce113ff34a0e45dd0c5ebbcefe8405c6695a03f1a1400088c09af3b3
     name: named
@@ -2973,7 +2981,7 @@ entries:
     - https://nais.github.io/charts/named-50.0.0.tgz
     version: 50.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.534149749Z
+    created: 2018-05-14T07:56:56.812837936Z
     description: NAIS Access Management Extension
     digest: a7c06c21f3f3052cb4d00f3f08acf2d1bec575a27915f974e23cbe5ecdd4a5b1
     name: named
@@ -2981,7 +2989,7 @@ entries:
     - https://nais.github.io/charts/named-49.0.0.tgz
     version: 49.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533972582Z
+    created: 2018-05-14T07:56:56.812705521Z
     description: NAIS Access Management Extension
     digest: d4b8709bbfc4aebf7e413a23fc418b1a9eb4e9abb8ab8fb1cdffb0988350275f
     name: named
@@ -2989,7 +2997,7 @@ entries:
     - https://nais.github.io/charts/named-48.0.0.tgz
     version: 48.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533832597Z
+    created: 2018-05-14T07:56:56.812565398Z
     description: NAIS Access Management Extension
     digest: 1e8d0e8bdb29f4c0c461e25e050c92860b01b3e0866b8abae7268218e32750fe
     name: named
@@ -2997,7 +3005,7 @@ entries:
     - https://nais.github.io/charts/named-47.0.0.tgz
     version: 47.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533687988Z
+    created: 2018-05-14T07:56:56.812430598Z
     description: NAIS Access Management Extension
     digest: 457fef91d4f93464d643b353d563a402c652653d925cbc4d74661d7b59a9f4b1
     name: named
@@ -3005,7 +3013,7 @@ entries:
     - https://nais.github.io/charts/named-46.0.0.tgz
     version: 46.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533547334Z
+    created: 2018-05-14T07:56:56.812296136Z
     description: NAIS Access Management Extension
     digest: 55e0cb3009404a6bad4bf207c54bfacf69b1dc5be6a323220a2d1b0bcbf58474
     name: named
@@ -3013,7 +3021,7 @@ entries:
     - https://nais.github.io/charts/named-45.0.0.tgz
     version: 45.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.5334022Z
+    created: 2018-05-14T07:56:56.812163455Z
     description: NAIS Access Management Extension
     digest: 5e159eadc9fc67fbce233f607606a4967f1d08ad67337c0a317c0bedd485950b
     name: named
@@ -3021,7 +3029,7 @@ entries:
     - https://nais.github.io/charts/named-44.0.0.tgz
     version: 44.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533262379Z
+    created: 2018-05-14T07:56:56.812023459Z
     description: NAIS Access Management Extension
     digest: 7de15c2c7d577f48c9dadeacc0eefa006df779b949c47a0a38c0cc9f57c12bf4
     name: named
@@ -3029,7 +3037,7 @@ entries:
     - https://nais.github.io/charts/named-43.0.0.tgz
     version: 43.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.533104104Z
+    created: 2018-05-14T07:56:56.811876542Z
     description: NAIS Access Management Extension
     digest: 556116acbd7826a457a817e3b469e25d30437611c41799a31101910012413217
     name: named
@@ -3037,7 +3045,7 @@ entries:
     - https://nais.github.io/charts/named-42.0.0.tgz
     version: 42.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532955261Z
+    created: 2018-05-14T07:56:56.811745509Z
     description: NAIS Access Management Extension
     digest: 25c93fed497938161ebcde3c517732aecf4103114a5ac336a83539df99617bd8
     name: named
@@ -3045,7 +3053,7 @@ entries:
     - https://nais.github.io/charts/named-41.0.0.tgz
     version: 41.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532813388Z
+    created: 2018-05-14T07:56:56.811609872Z
     description: NAIS Access Management Extension
     digest: 5ca9ed8d7dc5ef09b80858f61d6655d410c7840d65f396f0a45416f8b62a8081
     name: named
@@ -3053,7 +3061,7 @@ entries:
     - https://nais.github.io/charts/named-40.0.0.tgz
     version: 40.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532499495Z
+    created: 2018-05-14T07:56:56.811347299Z
     description: NAIS Access Management Extension
     digest: 757e941ed83c0b5d43432a5c23eccd8f14eeaefcfc1b3fed6931258bf1670ea9
     name: named
@@ -3061,7 +3069,7 @@ entries:
     - https://nais.github.io/charts/named-39.0.0.tgz
     version: 39.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532273966Z
+    created: 2018-05-14T07:56:56.811211917Z
     description: NAIS Access Management Extension
     digest: c1b72982251e5d3ea7697e322adff0788a2ff37140aa077728bd4dfc9304bc2a
     name: named
@@ -3069,7 +3077,7 @@ entries:
     - https://nais.github.io/charts/named-38.0.0.tgz
     version: 38.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532128586Z
+    created: 2018-05-14T07:56:56.81106785Z
     description: NAIS Access Management Extension
     digest: 9463688b833707d07f5ef3dc3e076bf02ad949d16379f6eaccad41cb0660f370
     name: named
@@ -3077,7 +3085,7 @@ entries:
     - https://nais.github.io/charts/named-37.0.0.tgz
     version: 37.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531984617Z
+    created: 2018-05-14T07:56:56.810936041Z
     description: NAIS Access Management Extension
     digest: 48ee1bc3d33a122285c36f938e001252df1a6f02be0c0fbf3b9adb98a0fad62d
     name: named
@@ -3085,7 +3093,7 @@ entries:
     - https://nais.github.io/charts/named-36.0.0.tgz
     version: 36.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531831292Z
+    created: 2018-05-14T07:56:56.810801955Z
     description: NAIS Access Management Extension
     digest: 6d82c6d0368845644e5f38a1ee6dfc0b326d9bd2630e9fa1730c079dde672904
     name: named
@@ -3093,7 +3101,7 @@ entries:
     - https://nais.github.io/charts/named-35.0.0.tgz
     version: 35.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531688799Z
+    created: 2018-05-14T07:56:56.810592905Z
     description: NAIS Access Management Extension
     digest: 38a697cc8fc93df8b1ee3d23d44fbf3cdc4734d28a8f2bcca4f86f363695da2e
     name: named
@@ -3101,7 +3109,7 @@ entries:
     - https://nais.github.io/charts/named-34.0.0.tgz
     version: 34.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531530178Z
+    created: 2018-05-14T07:56:56.810459988Z
     description: NAIS Access Management Extension
     digest: 406959f9f5ca1f0138850192c624f122f87e0f7f4d83e721896b2a5890e4cceb
     name: named
@@ -3109,7 +3117,7 @@ entries:
     - https://nais.github.io/charts/named-33.0.0.tgz
     version: 33.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.53138386Z
+    created: 2018-05-14T07:56:56.810326817Z
     description: NAIS Access Management Extension
     digest: 410a97e628b16018ae5ed123c308e5edc33b73e8d1022a9f56a95910af36fed0
     name: named
@@ -3117,7 +3125,7 @@ entries:
     - https://nais.github.io/charts/named-32.0.0.tgz
     version: 32.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531235962Z
+    created: 2018-05-14T07:56:56.810190027Z
     description: NAIS Access Management Extension
     digest: f7fe8eacd3c16338065b2b7a2d9256999a7a1d6a113393037886f4849225199e
     name: named
@@ -3125,7 +3133,7 @@ entries:
     - https://nais.github.io/charts/named-31.0.0.tgz
     version: 31.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.531066617Z
+    created: 2018-05-14T07:56:56.8100417Z
     description: NAIS Access Management Extension
     digest: 071ee6bbe6745788a049dac7ab2199bd4e0c7330eeeeeb6aaf30487f2bae0019
     name: named
@@ -3133,7 +3141,7 @@ entries:
     - https://nais.github.io/charts/named-30.0.0.tgz
     version: 30.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.530762316Z
+    created: 2018-05-14T07:56:56.809769389Z
     description: NAIS Access Management Extension
     digest: d0842f2b0c65a7953794d87516ab6102e4ddd14d5434248527b1bc85991a4c3d
     name: named
@@ -3141,7 +3149,7 @@ entries:
     - https://nais.github.io/charts/named-29.0.0.tgz
     version: 29.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.530532988Z
+    created: 2018-05-14T07:56:56.809636228Z
     description: NAIS Access Management Extension
     digest: 320cf713fab1039d5e2da3f03a9c0054826225707ae306fb9e00f6dadda11d44
     name: named
@@ -3149,7 +3157,7 @@ entries:
     - https://nais.github.io/charts/named-28.0.0.tgz
     version: 28.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.530312207Z
+    created: 2018-05-14T07:56:56.809504576Z
     description: NAIS Access Management Extension
     digest: 8dbc3064d746b83a41de88bbc219632ed5bd988f736978f4c446560f897441ca
     name: named
@@ -3157,7 +3165,7 @@ entries:
     - https://nais.github.io/charts/named-27.0.0.tgz
     version: 27.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.529928112Z
+    created: 2018-05-14T07:56:56.809364687Z
     description: NAIS Access Management Extension
     digest: 82fe0c0f8e42c59d6db21d26d588f3a2a9ac6b91a76e766b59038fdbe37aae61
     name: named
@@ -3165,7 +3173,7 @@ entries:
     - https://nais.github.io/charts/named-26.0.0.tgz
     version: 26.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.529549924Z
+    created: 2018-05-14T07:56:56.809205966Z
     description: NAIS Access Management Extension
     digest: 98005501c31a68127e4a85f630bc6a5d6536f775adfa9dd619f373f1cd1e2f3c
     name: named
@@ -3173,7 +3181,7 @@ entries:
     - https://nais.github.io/charts/named-25.0.0.tgz
     version: 25.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.529103329Z
+    created: 2018-05-14T07:56:56.808984275Z
     description: NAIS Access Management Extension
     digest: d12850ae311674671d3a37cdd60ff966536a22fdfdfed3a240bb1c3062751f24
     name: named
@@ -3181,7 +3189,7 @@ entries:
     - https://nais.github.io/charts/named-24.0.0.tgz
     version: 24.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.528648207Z
+    created: 2018-05-14T07:56:56.808741399Z
     description: NAIS Access Management Extension
     digest: 648280a98d15c0f55535ab58b33d55ac3384277e4492f0765697f5f06141a489
     name: named
@@ -3189,7 +3197,7 @@ entries:
     - https://nais.github.io/charts/named-23.0.0.tgz
     version: 23.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.528070412Z
+    created: 2018-05-14T07:56:56.808140712Z
     description: NAIS Access Management Extension
     digest: ed815c7f87c8b7b4805260f6df46285c541eeb4e4171ec36a532b64663133330
     name: named
@@ -3197,7 +3205,7 @@ entries:
     - https://nais.github.io/charts/named-22.0.0.tgz
     version: 22.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.527657337Z
+    created: 2018-05-14T07:56:56.80779738Z
     description: NAIS Access Management Extension
     digest: f51feea9c6b2744038a70ec643f3f1bc108d21c6587a5b509b541b3c557fcdce
     name: named
@@ -3205,7 +3213,7 @@ entries:
     - https://nais.github.io/charts/named-21.0.0.tgz
     version: 21.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.527256654Z
+    created: 2018-05-14T07:56:56.807380562Z
     description: NAIS Access Management Extension
     digest: 9015bba9a2150d6513839554a9c7295e0e9d5b20f42ebb0405c233075c38a4a7
     name: named
@@ -3213,7 +3221,7 @@ entries:
     - https://nais.github.io/charts/named-20.0.0.tgz
     version: 20.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.526533523Z
+    created: 2018-05-14T07:56:56.806569807Z
     description: NAIS Access Management Extension
     digest: 600c92b1d36f1172de8f42bbc43764db621ff5f0e353c785477d00ee4eaa4e62
     name: named
@@ -3221,7 +3229,7 @@ entries:
     - https://nais.github.io/charts/named-19.0.0.tgz
     version: 19.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.526187596Z
+    created: 2018-05-14T07:56:56.805991396Z
     description: NAIS Access Management Extension
     digest: b47e7256dd791a9df7ba4c19e52b8331a86fed6bee4e5ac30d5f7dbd605fc23f
     name: named
@@ -3229,7 +3237,7 @@ entries:
     - https://nais.github.io/charts/named-18.0.0.tgz
     version: 18.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.52566906Z
+    created: 2018-05-14T07:56:56.805651757Z
     description: NAIS Access Management Extension
     digest: efc51b5f00137962b6acb7cdd3caf482ee7a450495e35f632cf17c26f1fa3fd5
     name: named
@@ -3237,7 +3245,7 @@ entries:
     - https://nais.github.io/charts/named-17.0.0.tgz
     version: 17.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.525190544Z
+    created: 2018-05-14T07:56:56.805326042Z
     description: NAIS Access Management Extension
     digest: bdcae1684e83f0825461b733a6317bc28645b6e33bfe1136bfa35269142d7ac2
     name: named
@@ -3245,7 +3253,7 @@ entries:
     - https://nais.github.io/charts/named-16.0.0.tgz
     version: 16.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.524785195Z
+    created: 2018-05-14T07:56:56.804993805Z
     description: NAIS Access Management Extension
     digest: e37717511edfca53019d00479e8d9a1808beb57fab1c644dcd51815793bffaa7
     name: named
@@ -3253,7 +3261,7 @@ entries:
     - https://nais.github.io/charts/named-15.0.0.tgz
     version: 15.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.524171193Z
+    created: 2018-05-14T07:56:56.804663348Z
     description: NAIS Access Management Extension
     digest: c132a11a843f381dc01386a78302aad16a7e4d4feee033af9aee471b87a80978
     name: named
@@ -3261,7 +3269,7 @@ entries:
     - https://nais.github.io/charts/named-14.0.0.tgz
     version: 14.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.523490664Z
+    created: 2018-05-14T07:56:56.80432644Z
     description: NAIS Access Management Extension
     digest: d71ebfb72441273ce3e6e439b05857a63ac3e7378e06bce848f4bedbc0053270
     name: named
@@ -3269,7 +3277,7 @@ entries:
     - https://nais.github.io/charts/named-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.523049142Z
+    created: 2018-05-14T07:56:56.803974547Z
     description: NAIS Access Management Extension
     digest: d6d42c15589596716deb0973a785f3244ed0f54e88aa9785242af893eec54d8d
     name: named
@@ -3277,7 +3285,7 @@ entries:
     - https://nais.github.io/charts/named-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.522884356Z
+    created: 2018-05-14T07:56:56.803403114Z
     description: NAIS Access Management Extension
     digest: b7c283599152870cfa0c57e54e1918b1ec459695a74cd9cb3844766b22c5e7b2
     name: named
@@ -3285,7 +3293,7 @@ entries:
     - https://nais.github.io/charts/named-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.522714118Z
+    created: 2018-05-14T07:56:56.803051574Z
     description: NAIS Access Management Extension
     digest: c5c4a7c77993ff118207f1d1f0e670af09c10e643903657b932ebd0f9c8daa37
     name: named
@@ -3293,7 +3301,7 @@ entries:
     - https://nais.github.io/charts/named-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.543210169Z
+    created: 2018-05-14T07:56:56.820596138Z
     description: NAIS Access Management Extension
     digest: 1fbef74e5ec7234be0cd7204f7c90361c2c614f4beaf08c9ee9a2d77b78edf84
     name: named
@@ -3301,7 +3309,7 @@ entries:
     - https://nais.github.io/charts/named-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.542953425Z
+    created: 2018-05-14T07:56:56.820467214Z
     description: NAIS Access Management Extension
     digest: 5cdb5d572852b7d91eb122a11f3b2bc3d14b4e2578ec96f5f0e63f3c90fba878
     name: named
@@ -3309,7 +3317,7 @@ entries:
     - https://nais.github.io/charts/named-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.541058975Z
+    created: 2018-05-14T07:56:56.819833391Z
     description: NAIS Access Management Extension
     digest: a455cc0b0aa6bbcbb97cf2b1f96583bab8683177dbe3634d5ed5756c1508ba94
     name: named
@@ -3317,7 +3325,7 @@ entries:
     - https://nais.github.io/charts/named-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.536894486Z
+    created: 2018-05-14T07:56:56.815845465Z
     description: NAIS Access Management Extension
     digest: c81558f10bf599a4ee2a7a58c4a12a3c8af44c1d5b173b3f0898e55c61694ed7
     name: named
@@ -3325,7 +3333,7 @@ entries:
     - https://nais.github.io/charts/named-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.534392665Z
+    created: 2018-05-14T07:56:56.812969633Z
     description: NAIS Access Management Extension
     digest: dccdbd141951db5dcdccd4aa330ce813c4ff05a61e00c762da72d62ab5b24c9e
     name: named
@@ -3333,7 +3341,7 @@ entries:
     - https://nais.github.io/charts/named-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.532649268Z
+    created: 2018-05-14T07:56:56.811479258Z
     description: NAIS Access Management Extension
     digest: 77ceb45988a03e14f5aeefd24b677cefb283ab09881b2208b8ddeb2d1135dc3f
     name: named
@@ -3341,7 +3349,7 @@ entries:
     - https://nais.github.io/charts/named-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.530912932Z
+    created: 2018-05-14T07:56:56.809906892Z
     description: NAIS Access Management Extension
     digest: a8d58d8c3728cd4e2867cb799ec46c870fb49b85859677123a9392258e5f25ca
     name: named
@@ -3349,7 +3357,7 @@ entries:
     - https://nais.github.io/charts/named-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.526879125Z
+    created: 2018-05-14T07:56:56.806919432Z
     description: NAIS Access Management Extension
     digest: 82378397a9ebbc20ab95c275809d53a3812cf8ee46dc72c1a89ed406ffdcf58e
     name: named
@@ -3359,7 +3367,7 @@ entries:
   naudit:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-05-10T20:40:54.543401512Z
+    created: 2018-05-14T07:56:56.82071164Z
     description: Create an external service to a syslog server.
     digest: 7b41ee67c2f71bfb3979e19ee5a6ec205ef31b8b709b64a829ed1d51fe683e20
     name: naudit
@@ -3367,7 +3375,7 @@ entries:
     - https://nais.github.io/charts/naudit-0.1.0.tgz
     version: 0.1.0
   prometheus:
-  - created: 2018-05-10T20:40:54.554689872Z
+  - created: 2018-05-14T07:56:56.831780025Z
     description: Prometheus is a monitoring system and time series database.
     digest: 5a64ca5aba798a791df6f5438be01478fbff3b5510febc27bcab3934e19e7c1b
     engine: gotpl
@@ -3385,7 +3393,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.5.0.tgz
     version: 5.5.0
-  - created: 2018-05-10T20:40:54.552187862Z
+  - created: 2018-05-14T07:56:56.829803221Z
     description: Prometheus is a monitoring system and time series database.
     digest: eb62328e71563320cdac2913594ab6ed893d9d5fcbb682357cd85b72ecfd67f0
     engine: gotpl
@@ -3403,7 +3411,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.4.0.tgz
     version: 5.4.0
-  - created: 2018-05-10T20:40:54.55117582Z
+  - created: 2018-05-14T07:56:56.827696986Z
     description: Prometheus is a monitoring system and time series database.
     digest: 4c0a14c8f88f9219495ee01e6c153dc1a48e45469be7cfb3a6fc817a61ad0c2a
     engine: gotpl
@@ -3421,7 +3429,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.3.1.tgz
     version: 5.3.1
-  - created: 2018-05-10T20:40:54.550143332Z
+  - created: 2018-05-14T07:56:56.826709158Z
     description: Prometheus is a monitoring system and time series database.
     digest: db5cd48b8f3ca92cd922bbca681199ea9a4a32a1b184af384df3cdad1bcd15e1
     engine: gotpl
@@ -3439,7 +3447,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.3.0.tgz
     version: 5.3.0
-  - created: 2018-05-10T20:40:54.549002148Z
+  - created: 2018-05-14T07:56:56.825712961Z
     description: Prometheus is a monitoring system and time series database.
     digest: 06ae6b9bd32ab0e75bb1beb105e62eaed6912114fe33226ad24cd27a8bb9493e
     engine: gotpl
@@ -3457,7 +3465,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.2.1.tgz
     version: 5.2.1
-  - created: 2018-05-10T20:40:54.547878787Z
+  - created: 2018-05-14T07:56:56.824666493Z
     description: Prometheus is a monitoring system and time series database.
     digest: aa3d72141cd0a1cd46cf620938b0444ca4bc899220c1d5916ffaa608e83ce5a5
     engine: gotpl
@@ -3475,7 +3483,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.2.0.tgz
     version: 5.2.0
-  - created: 2018-05-10T20:40:54.546750743Z
+  - created: 2018-05-14T07:56:56.823679671Z
     description: Prometheus is a monitoring system and time series database.
     digest: dfdc42d1deb7799fd856068ee93434d1020b75ba04e1622c281792ea7319a5d4
     engine: gotpl
@@ -3493,7 +3501,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.1.1.tgz
     version: 5.1.1
-  - created: 2018-05-10T20:40:54.545731527Z
+  - created: 2018-05-14T07:56:56.822712648Z
     description: Prometheus is a monitoring system and time series database.
     digest: 66c596abaeeb61059d7f2ae9cf355c97b97e97c617cfad31c16c59c9624e27ba
     engine: gotpl
@@ -3511,7 +3519,7 @@ entries:
     urls:
     - https://nais.github.io/charts/prometheus-5.1.0.tgz
     version: 5.1.0
-  - created: 2018-05-10T20:40:54.544672689Z
+  - created: 2018-05-14T07:56:56.821708472Z
     description: Prometheus is a monitoring system and time series database.
     digest: 9a1df06c6acfd68347984b95baa527b55212a8cfe497f3cd16c86220454b9344
     engine: gotpl
@@ -3531,7 +3539,7 @@ entries:
     version: 5.0.0
   redisoperator:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.556322686Z
+    created: 2018-05-14T07:56:56.8334397Z
     description: A Helm chart for the Spotahome Redis Operator
     digest: 3bf6685256b92af9613618e6c9e1519fe10502d6a7f0cbeb0d3e2b0d50fd503e
     name: redisoperator
@@ -3539,7 +3547,7 @@ entries:
     - https://nais.github.io/charts/redisoperator-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.555942613Z
+    created: 2018-05-14T07:56:56.833018177Z
     description: A Helm chart for the Spotahome Redis Operator
     digest: 03c11482d3459055c6d3e48040209551bf2b4114c18203f2eed902112db29ac0
     name: redisoperator
@@ -3547,7 +3555,7 @@ entries:
     - https://nais.github.io/charts/redisoperator-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.555561739Z
+    created: 2018-05-14T07:56:56.832584942Z
     description: A Helm chart for the Spotahome Redis Operator
     digest: 4dc11f453adeee17453a8389a1df1f295b5193285eaf36bdcd1cd6eba214dc71
     name: redisoperator
@@ -3555,7 +3563,7 @@ entries:
     - https://nais.github.io/charts/redisoperator-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.555144118Z
+    created: 2018-05-14T07:56:56.832180484Z
     description: A Helm chart for the Spotahome Redis Operator
     digest: 99c2f86fd7ee2d18e9a0ef5940b0d3cd49826b07b651b6acc448a5e45836d1bc
     name: redisoperator
@@ -3564,7 +3572,7 @@ entries:
     version: 2.0.0
   rook:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.562017763Z
+    created: 2018-05-14T07:56:56.837913241Z
     description: File, Block, and Object Storage Services for your Cloud-Native Environment
     digest: 6fedad1542c9789240c9fa2b45168a6cb5c02de29226cf1bf9cd0476439b0a76
     icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
@@ -3575,7 +3583,7 @@ entries:
     - https://nais.github.io/charts/rook-v0.5.0-195.g84593aa.tgz
     version: v0.5.0-195.g84593aa
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.5617865Z
+    created: 2018-05-14T07:56:56.837685833Z
     description: File, Block, and Object Storage Services for your Cloud-Native Environment
     digest: 73698ea448ea5b5c729f9328607a6e6657eda221d1ce8e0ed7212b2fb39cdcc5
     icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
@@ -3586,7 +3594,7 @@ entries:
     - https://nais.github.io/charts/rook-v0.5.0-101.gc1e2675.tgz
     version: v0.5.0-101.gc1e2675
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.556881552Z
+    created: 2018-05-14T07:56:56.834032939Z
     description: File, Block, and Object Storage Services for your Cloud-Native Environment
     digest: e1563e8d2e53b66e7d5db1ae08737ea87b36f688e75c1b2d6d336142c1a4f615
     icon: https://rook.io/images/logos/rook/rook-logo-color-on-transparent.png
@@ -3598,7 +3606,7 @@ entries:
     version: 0.0.1
   rook-cluster:
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.561514823Z
+    created: 2018-05-14T07:56:56.83745176Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: 7688f31de2d3ce8e9ccac6502491a3cc957027e9adc32a467dab1201b451efbb
@@ -3607,7 +3615,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.8.2.tgz
     version: 0.8.2
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.561233191Z
+    created: 2018-05-14T07:56:56.83718444Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: 9b579d1c6c85201cc6ac4e13b639a7791139a34e161b3aca4d43b96e5702bb0c
@@ -3616,7 +3624,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.560949453Z
+    created: 2018-05-14T07:56:56.836911282Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: 2098554032299104d2d04ceff3d4257524ea324c8c26209ad74a177969388594
@@ -3625,7 +3633,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.560658314Z
+    created: 2018-05-14T07:56:56.836635855Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: 0105d579690f12a9cc78c8842ebaed2b586f92372ded5abae1752926dc4dee3c
@@ -3634,7 +3642,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.5602911Z
+    created: 2018-05-14T07:56:56.836358238Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: d3e080e22fe8a245ef06a678bc22621027b5fe29215623776ed1e1bb50586e44
@@ -3643,7 +3651,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.559526631Z
+    created: 2018-05-14T07:56:56.83563314Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: d83f13f5dd052ae1be4d03bd9166bc855d026486d38ccd8e96922df11b257d7e
@@ -3652,7 +3660,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.559132995Z
+    created: 2018-05-14T07:56:56.835377266Z
     description: A Helm chart for setting up a opionated rook Ceph pool and Kubernetes
       storage class.
     digest: d52d3d1ce6ec79ed8786fa50aaa7cd29fc9c6db0794426e7d49e45eadbbdaa8a
@@ -3661,7 +3669,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.558563236Z
+    created: 2018-05-14T07:56:56.835124311Z
     description: A Helm chart for setting up a opionated rook cluster, Ceph pool and
       Kubernetes storage class.
     digest: ff237f29d524b6322d272722e6ead04304ddf473848c3e8506fd714968648190
@@ -3670,7 +3678,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.558018284Z
+    created: 2018-05-14T07:56:56.834820251Z
     description: A Helm chart for setting up a opionated rook cluster, Ceph pool and
       Kubernetes storage class.
     digest: 2219b6e3b4da27a016037202e1b3c9549de58e464b375aa488531b1c6b133084
@@ -3679,7 +3687,7 @@ entries:
     - https://nais.github.io/charts/rook-cluster-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-05-10T20:40:54.557433423Z
+    created: 2018-05-14T07:56:56.834467478Z
     description: A Helm chart for setting up a opionated rook cluster, Ceph pool and
       Kubernetes storage class.
     digest: 31e73f8f1ca536302fb143b218873b40f621cba6e499db7562bba9f223dfdbd7
@@ -3687,4 +3695,4 @@ entries:
     urls:
     - https://nais.github.io/charts/rook-cluster-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-10T20:40:54.423511442Z
+generated: 2018-05-14T07:56:56.716308084Z
